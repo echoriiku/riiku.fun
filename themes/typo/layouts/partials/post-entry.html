@@ -12,10 +12,10 @@
             <a href="{{ .RelPermalink }}">
                 {{ .Title }}
             </a>
+            &nbsp;&mdash;&nbsp;
+        <span class="published-date">
+            {{ .Date.Format "Jan 2, 2006" }}
+        </span>
         </p>
-
-        {{ if .Site.Params.listSummaries }}
-        <p class="line-summary"> {{ .Summary }} </p>
-        {{ end }}
     </div>
 </div>

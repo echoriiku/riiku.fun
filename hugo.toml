@@ -9,16 +9,20 @@ tag = 'tags'
 [params]
 # Meta description
 description = "Blog pessoal"
-showFooter = false
 # Appearance settings
 theme = 'auto'
-colorPalette = 'default'
+colorPalette = 'gruvebox'
 hideHeader = false
+readTime = true
+
+# Footer
+showFooter = true
+footerContent = "Be kind"
 
 # Intro on main page, content is markdown
 homeIntroTitle = 'Bem vindo!'
 homeIntroContent = """
-Olá! Eu sou o Riiku, e confesso: tenho mais hobbies do que deveria! Neste blog, compartilho um pouco das minhas paixões e interesses diversos. Sinta-se à vontade para explorar. Bem-vindo!
+Olá! Eu sou o Riiku, e confesso: tenho mais hobbies do que deveria! Neste blog, vou tentar compartilhar um pouco das minhas paixões e interesses diversos. Sinta-se à vontade para explorar!
 """
 
 # Collection to display on home
