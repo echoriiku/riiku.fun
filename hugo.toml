@@ -9,7 +9,7 @@ tag = 'tags'
 [params]
 # Meta description
 description = "Blog pessoal"
-
+showFooter = false
 # Appearance settings
 theme = 'auto'
 colorPalette = 'default'
