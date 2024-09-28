@@ -65,8 +65,13 @@ name = "posts"
 url = "/posts"
 
 [[params.menu]]
+name = "rss"
+url = "/index.xml"
+
+[[params.menu]]
 name = "sobre"
 url = "/about"
+
 
 # Syntax highligth on code blocks
 [markup]
