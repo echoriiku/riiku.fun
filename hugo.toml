@@ -18,7 +18,7 @@ readTime = true
 
 # Footer
 showFooter = true
-footerContent = "Be kind"
+footerContent = "Be kind ♡"
 
 # Intro on main page, content is markdown
 homeIntroTitle = 'Bem vindo!'
