@@ -9,7 +9,7 @@ tag = 'tags'
 [params]
 faviconPath = '/favicons/'
 # Meta description
-description = "Blog pessoal"
+description = "Um pouco de muita coisa"
 # Appearance settings
 theme = 'auto'
 colorPalette = 'flexoki'
