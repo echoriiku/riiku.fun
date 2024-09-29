@@ -1,0 +1,16 @@
+:root {
+    --content-primary: rgb(88, 110, 117); /* Everforest: Soft blue-gray */
+    --content-secondary: rgb(152, 157, 167); /* Everforest: Pale gray */
+    --background: rgb(238, 232, 213); /* Everforest: Soft beige */
+    --code-background: rgb(250, 248, 228); /* Everforest: Lighter beige */
+    --code-border: rgb(189, 174, 147); /* Everforest: Warm brown */
+}
+
+.dark {
+    --content-primary: rgb(180, 193, 177); /* Everforest: Light sage */
+    --content-secondary: rgb(121, 129, 140); /* Everforest: Muted gray-blue */
+    --background: rgb(30, 36, 35); /* Everforest: Deep forest green */
+    --code-background: rgb(40, 45, 41); /* Everforest: Darker green */
+    --code-border: rgb(98, 104, 82); /* Everforest: Olive green */
+}
+

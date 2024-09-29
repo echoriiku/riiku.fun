@@ -12,7 +12,7 @@ faviconPath = '/favicons/'
 description = "Blog pessoal"
 # Appearance settings
 theme = 'auto'
-colorPalette = 'gruvebox'
+colorPalette = 'flexoki'
 hideHeader = false
 readTime = true
 
