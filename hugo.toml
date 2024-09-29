@@ -24,6 +24,8 @@ footerContent = "Be kind ♡"
 homeIntroTitle = 'Bem vindo!'
 homeIntroContent = """
 Olá! Eu sou o Riiku, e confesso: tenho mais hobbies do que deveria! Neste blog, vou tentar compartilhar um pouco das minhas paixões e interesses diversos. Sinta-se à vontade para explorar!
+
+Você também pode me encontrar nas redes sociais abaixo.
 """
 
 # Collection to display on home
@@ -50,6 +52,10 @@ url = "https://tech.lgbt/@riiku"
 [[params.social]]
 name = "lastfm"
 url = "https://last.fm/user/riicu"
+
+[[params.social]]
+name = "letterboxd"
+url = "https://letterboxd.com/echoriiku/"
 
 [[params.social]]
 name = "github"
