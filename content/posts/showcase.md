@@ -1,7 +1,7 @@
 +++
 title = 'Showcase'
 date = 2024-09-29T22:45:36-03:00
-draft = false
+draft = true
 +++
 # Dillinger
 ## _The Last Markdown Editor, Ever_
