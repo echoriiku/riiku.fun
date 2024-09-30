@@ -1,0 +1,21 @@
+<div class="post-line">
+
+    {{ $dateFormat := "2 Jan 2006"}}
+    {{ with .Site.Params.listDateFormat }}
+    {{ $dateFormat = .}}
+    {{ end }}
+
+    <p class="line-date">{{ .Date.Format $dateFormat }} </p>
+
+    <div>
+        <p class="line-title">
+            <a href="{{ .RelPermalink }}">
+                {{ .Title }}
+            </a>
+            &nbsp;&mdash;&nbsp;
+            <span class="published-date">
+                {{ .Date.Format "Jan 2, 2006" }}
+            </span>
+        </p>
+    </div>
+</div>

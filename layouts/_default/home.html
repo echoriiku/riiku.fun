@@ -36,7 +36,7 @@
 
 <div class="list-container">
     {{ with .Site.Params.homeCollectionTitle}}
-    <h1> {{ . }} </h1>
+    <h3> {{ . }} </h3>
     {{ end }}
 
     {{ $pages := where .Site.RegularPages "Section" .Site.Params.homeCollection
