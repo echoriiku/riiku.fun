@@ -1,0 +1,15 @@
+:root {
+    --content-primary: rgb(110, 106, 134); /* Rosé Pine: Text - grayish purple */
+    --content-secondary: rgb(152, 145, 185); /* Rosé Pine: Muted purple */
+    --background: rgb(245, 224, 220); /* Rosé Pine: Light background */
+    --code-background: rgb(241, 231, 227); /* Rosé Pine: Code bg - slightly lighter */
+    --code-border: rgb(193, 181, 177); /* Rosé Pine: Code border - soft brownish */
+}
+
+.dark {
+    --content-primary: rgb(224,222,244); /* Rosé Pine Moon: Text - soft gray */
+    --content-secondary: rgb(229, 204, 202); /* Rosé Pine Moon: Soft pinkish tone */
+    --background: rgb(26,24,37); /* Rosé Pine Moon: Dark background */
+    --code-background: rgb(31,29,46) ; /* Rosé Pine Moon: Slightly darker indigo */
+    --code-border: rgb(73, 73, 89); /* Rosé Pine Moon: Dark muted border */
+}

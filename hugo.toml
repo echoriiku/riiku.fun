@@ -12,7 +12,7 @@ faviconPath = '/favicons/'
 description = "Um pouco de muita coisa"
 # Appearance settings
 theme = 'auto'
-colorPalette = 'flexoki'
+colorPalette = 'gruvebox'
 hideHeader = false
 readTime = true
 
