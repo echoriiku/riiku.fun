@@ -18,12 +18,12 @@ readTime = true
 
 # Footer
 showFooter = true
-footerContent = "Be kind ♡"
+footerContent = "Be kind ♡ | Powered by [Hugo](https://gohugo.io/) & [Typo](https://github.com/tomfran/typo)"
 
 # Intro on main page, content is markdown
 homeIntroTitle = 'Bem vindo!'
 homeIntroContent = """
-Olá! Eu sou o Riiku, e confesso: tenho mais hobbies do que deveria! Neste blog, vou tentar compartilhar um pouco das minhas paixões e interesses diversos. Sinta-se à vontade para explorar!
+Olá! Eu sou o Riiku, e tenho mais hobbies do que deveria! Por isso, nesse blog, vou tentar compartilhar um pouco das minhas paixões e interesses variados. Sinta-se à vontade para explorar!
 
 Você também pode me encontrar nas redes sociais abaixo.
 """
