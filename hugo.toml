@@ -18,7 +18,7 @@ readTime = true
 
 # Footer
 showFooter = true
-footerContent = "Be kind ♡ | Powered by [Hugo](https://gohugo.io/) & [Typo](https://github.com/tomfran/typo)"
+footerContent = "Be kind ♡ | Construido usando [Hugo](https://gohugo.io/) e [Typo](https://github.com/tomfran/typo)"
 
 # Intro on main page, content is markdown
 homeIntroTitle = 'Bem vindo!'
