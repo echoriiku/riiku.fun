@@ -1,5 +1,5 @@
 +++
-title = 'Usando Rss em 202X'
+title = 'Usando RSS em 202X'
 date = 2024-10-04T17:21:53-03:00
 draft = false
 +++
