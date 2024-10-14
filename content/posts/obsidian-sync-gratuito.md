@@ -19,7 +19,7 @@ Usando o método que vou compartilhar, você terá o armazenamento do plano `Plu
 
 Bom, vamos começar:
 
-# Criando um R2 Bucket na Cloudflare 
+## Criando um R2 Bucket na Cloudflare 
 Após a criação de sua conta na Cloudflare, na barra lateral, clique em `R2 Object Storage`:
 
 ![](https://i.postimg.cc/xC4rpMwh/auvg7c.webp)
@@ -52,7 +52,7 @@ Na próxima tela, guarde de forma segura o:
 
 Esses são os dados que você vai colocar no seu Obsidian.
 
-# Remotely Save Plugin 
+## Remotely Save Plugin 
 Nesse momento, é fundamental configurar corretamente o plugin Remotely Save no seu Obsidian. Este processo só precisa ser realizado uma vez, já que o plugin oferece a opção de exportar suas configurações pré-definidas, você pode aproveitar essa oportunidade para definir as configurações de sincronização do jeito que você gosta.
 
 ### Configurações Iniciais
