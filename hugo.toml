@@ -84,6 +84,11 @@ url = "/about"
 [markup.highlight]
 style = 'algol'
 
+[params.umami]
+enable = true
+websiteId = "60f59b59-ff10-4fc1-9b9a-91156f060e06"
+jsLocation = "https://cloud.umami.is/script.js"
+
 # Giscus comments
 # [params.giscus]
 # enable = false
