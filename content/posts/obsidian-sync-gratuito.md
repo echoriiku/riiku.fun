@@ -22,25 +22,27 @@ Bom, vamos começar:
 # Criando um R2 Bucket na Cloudflare 
 Após a criação de sua conta na Cloudflare, na barra lateral, clique em `R2 Object Storage`:
 
-![](https://files.catbox.moe/auvg7c.png)
+![](https://i.postimg.cc/xC4rpMwh/auvg7c.webp)
 
 Crie um Bucket:
 
-![](https://files.catbox.moe/5m00ms.png)
+![](https://i.postimg.cc/N0NfY9h7/5m00ms.webp)
 
 Escolha um bom nome para o seu Bucket, **esse nome não pode ser alterado!** e clique em `Create bucket`.
 
-![](https://files.catbox.moe/e1q0b9.png)
+![](https://i.postimg.cc/jqDCxXSW/e1q0b9.webp)
 
 ## Criando um API Token
 
 Volte ao Overview R2 Object Storage e clique em `Manage R2 API Tokens` e crie um API Token:
 
-![](https://files.catbox.moe/8gfl90.png)
-![](https://files.catbox.moe/jzgroe.png)
+![](https://i.postimg.cc/rs0BBzcm/8gfl90.webp)
+
+
+![](https://i.postimg.cc/N0NfY9h7/5m00ms.webp)
 
 Escolha um nome para o Token, nas Permissões escolha `Read & Write`, em seguida selecione seu `Bucket` na parte seguinte, fazendo com que seu API Token só tenha acesso a esse único `Bucket`, e por fim, crie o Token.
-![](https://files.catbox.moe/3xqckt.png)
+![](https://i.postimg.cc/zGFGt20Q/3xqckt.webp)
 
 Na próxima tela, guarde de forma segura o:
 - **Token value**
@@ -56,23 +58,23 @@ Nesse momento, é fundamental configurar corretamente o plugin Remotely Save no 
 ### Configurações Iniciais
 Após a instalação do [RemotelySave](https://obsidian.md/plugins?id=remotely-save), vá nas `Configurações` > `Plugins Não Oficiais` > `Remotely Save` e escolha `S3 & Compatible` e preencha os dados que você salvou anteriormente:
 
-![](https://files.catbox.moe/pg8dtp.png)
+![](https://i.postimg.cc/FFwz7LYT/pg8dtp.webp)
 
 ### Configurações Básicas
 Feito isso, configure as opções básicas de sincronização, particularmente acho essas as ideais, com sincronização ao iniciar o aplicativo e sincronização feita a cada modificação:
 
-![](https://files.catbox.moe/ocde91.png)
+![](https://i.postimg.cc/WzBBTjb7/ocde91.webp)
 
 ### Exportando configurações
 Por fim, você pode (e deve) exportar suas configurações para que não precise fazer esse processo novamente em outros dispositivos:
 
-![](https://files.catbox.moe/s5x2qr.png)
+![](https://i.postimg.cc/4Ntdtxts/s5x2qr.webp)
 
-![](https://files.catbox.moe/zskdhi.png)
+![](https://i.postimg.cc/RZB0TxQf/zskdhi.webp)
 
 Obs.: Se acontecer algum erro ao fazer a primeira sincronização, é normal, o [RemotelySave](https://obsidian.md/plugins?id=remotely-save) por padrão coloca um limite de 50% dos itens, mas você pode desabilitar nas configurações do Plugin:
 
-![](https://files.catbox.moe/4vjzmg.png)
+![](https://i.postimg.cc/nLVc6KWh/4vjzmg.webp)
 
 **Lembre-se:** ao trabalhar com serviços em nuvem, é fundamental manter suas credenciais seguras e realizar backups regularmente para garantir a proteção dos seus dados, sincronização =/= backup!
 
