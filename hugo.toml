@@ -1,6 +1,6 @@
 baseURL = 'https://riiku.fun/'
 languageCode = 'pt-BR'
-title = "Riiku's Bytes ⁂ "
+title = "⁂ riiku's blog"
 theme = 'typo'
 
 [taxonomies]
@@ -12,7 +12,7 @@ faviconPath = '/favicons/'
 description = "Um pouco de muita coisa"
 # Appearance settings
 theme = 'auto'
-colorPalette = 'everforest'
+colorPalette = 'tokyonight'
 hideHeader = false
 readTime = true
 
@@ -21,11 +21,8 @@ showFooter = true
 footerContent = "Be kind ♡ | Construido usando [Hugo](https://gohugo.io/) e [Typo](https://github.com/tomfran/typo)"
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Bem vindo!'
+homeIntroTitle = ''
 homeIntroContent = """
-Olá! Eu sou o Riiku, e tenho mais hobbies do que deveria! Por isso, nesse blog, vou tentar compartilhar um pouco das minhas paixões e interesses variados. Sinta-se à vontade para explorar!
-
-Você também pode me encontrar nas redes sociais abaixo.
 """
 
 # Collection to display on home
@@ -71,13 +68,12 @@ name = "posts"
 url = "/posts"
 
 [[params.menu]]
-name = "rss"
-url = "/index.xml"
-
-[[params.menu]]
 name = "sobre"
 url = "/about"
 
+[[params.menu]]
+name = "rss"
+url = "/index.xml"
 
 # Syntax highligth on code blocks
 [markup]

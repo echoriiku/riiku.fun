@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on ⁂ riiku&#39;s blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on ⁂ riiku&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sat, 15 Feb 2025 19:59:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-Hosting</title>
+      <link>http://localhost:1313/posts/self-hosting-2025/</link>
+      <pubDate>Sat, 15 Feb 2025 19:59:01 -0300</pubDate>
+      <guid>http://localhost:1313/posts/self-hosting-2025/</guid>
+      <description>Em 2025, decidi mudar um pouco as coisas. Pra começar, finalmente entendi que não preciso começar sempre pelo método mais completo (que acaba sendo mais difícil), não tem nada de errado em dar pequenos passos pra depois correr.&#xA;Ano passado, em 2024, comecei a fazer &amp;lsquo;self-hosting&amp;rsquo; de alguns aplicativos, self-hosting entre aspas pois pra alguns só é self-hosting de verdade quando você faz tudo em casa, com seu próprio hardware. Algo que, infelizmente, não é o meu caso, considerando os desafios de manter um computador ligado 24 horas por dia, 7 dias por semana no Brasil.</description>
+    </item>
+    <item>
+      <title>Sincronizando Obsidian com Cloudflare R2</title>
+      <link>http://localhost:1313/posts/obsidian-sync-gratuito/</link>
+      <pubDate>Mon, 14 Oct 2024 10:29:46 -0300</pubDate>
+      <guid>http://localhost:1313/posts/obsidian-sync-gratuito/</guid>
+      <description>Requisitos: Plugin RemotelySave Conta na Cloudflare Cartão de crédito (necessário pro cadastro) R2 Bucket Sincronizar suas notas no Obsidian, entre as várias plataformas suportadas pelo aplicativo, costuma ser uma das maiores barreiras que os usuários tem ao mergulhar no incrível universo de possibilidades que o Obsidian oferece. Por um lado, a simplicidade e por outro as possibilidades quase ilimitadas que o aplicativo oferece.&#xA;Depois de tentar vários métodos, inclusive o oficial Obsidian Sync, descobri que você pode usar a generosa oferta gratuita da Cloudlfare para conseguir sincronizar suas notas e arquivos.</description>
+    </item>
+    <item>
+      <title>Usando RSS em 202X</title>
+      <link>http://localhost:1313/posts/usando-rss-hoje/</link>
+      <pubDate>Fri, 04 Oct 2024 17:21:53 -0300</pubDate>
+      <guid>http://localhost:1313/posts/usando-rss-hoje/</guid>
+      <description>Imagina ter controle total sobre o que você lê e informações que recebe online. Essa é a ideia do RSS. Bom não necessariamente isso, mas gosto de pensar que é.&#xA;O RSS é um formato simples que permite a você se inscrever em seus sites, blogs e podcasts favoritos e receber as últimas atualizações em um só lugar. Ao contrário das redes sociais, que controlam o que você vê através de algoritmos, o RSS coloca você no comando.</description>
+    </item>
+    <item>
+      <title>Bem Vindos</title>
+      <link>http://localhost:1313/posts/bem-vindos/</link>
+      <pubDate>Sat, 28 Sep 2024 15:59:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/bem-vindos/</guid>
+      <description>Olá! Sou Riiku e este é o meu cantinho na internet. Aqui, vou compartilhar minhas paixões, descobertas e tudo o que aprendo por aí. Acredito que o conhecimento só ganha vida quando é dividido. Afinal, conhecimento pra uma pessoa só não é conhecimento de verdade, né?&#xA;A ideia de criar um blog surgiu da vontade de conectar com pessoas que, assim como eu, buscam conhecimento e novas perspectivas.</description>
+    </item>
+  </channel>
+</rss>

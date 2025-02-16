@@ -1,0 +1,15 @@
+:root {
+    --content-primary: rgb(52, 59, 88); /* Tokyo Night Light: Deep blue-gray */
+    --content-secondary: rgb(111, 119, 147); /* Tokyo Night Light: Muted lavender */
+    --background: rgb(213, 214, 219); /* Tokyo Night Light: Soft gray */
+    --code-background: rgb(230, 233, 239); /* Tokyo Night Light: Lighter gray */
+    --code-border: rgb(169, 177, 214); /* Tokyo Night Light: Cool gray */
+}
+
+.dark {
+    --content-primary: rgb(169, 177, 214); /* Tokyo Night: Soft lavender */
+    --content-secondary: rgb(116, 127, 163); /* Tokyo Night: Muted purple */
+    --background: rgb(26, 27, 38); /* Tokyo Night: Deep blue-black */
+    --code-background: rgb(36, 40, 59); /* Tokyo Night: Darker blue */
+    --code-border: rgb(65, 72, 104); /* Tokyo Night: Navy blue */
+}
