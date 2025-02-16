@@ -12,7 +12,7 @@ faviconPath = '/favicons/'
 description = "Um pouco de muita coisa"
 # Appearance settings
 theme = 'auto'
-colorPalette = 'tokyonight'
+colorPalette = 'flexoki'
 hideHeader = false
 readTime = true
 
