@@ -1,7 +1,7 @@
 +++
 title = 'RSS é incrível, você só não sabe disso ainda'
 date = 2025-03-16T00:07:55-03:00
-draft = false
+draft = true
 +++
 Outro dia, um post meu no Bluesky ganhou bastante atenção, felizmente por um bom motivo. O post em questão falava sobre RSS, feed readers e em como eles deveriam ressurgir.
 
