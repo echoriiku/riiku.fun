@@ -6,8 +6,15 @@
     <description>Recent content in Posts on ⁂ riiku&#39;s blog</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 15 Feb 2025 19:59:01 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 00:07:55 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RSS é incrível, você só não sabe disso ainda</title>
+      <link>http://localhost:1313/posts/rss-e-muito-bom/</link>
+      <pubDate>Sun, 16 Mar 2025 00:07:55 -0300</pubDate>
+      <guid>http://localhost:1313/posts/rss-e-muito-bom/</guid>
+      <description>Outro dia, um post meu no Bluesky ganhou bastante atenção, felizmente por um bom motivo. O post em questão falava sobre RSS, feed readers e em como eles deveriam ressurgir.&#xA;Essa postagem me fez pensar nas várias possibilidades que RSS tem a oferecer, algumas das quais eu já uso. Por isso, vou aproveitar e mostrar algumas das várias formas de usar RSS e quem sabe isso não desperta um novo interesse em você?</description>
+    </item>
     <item>
       <title>Self-Hosting</title>
       <link>http://localhost:1313/posts/self-hosting-2025/</link>
