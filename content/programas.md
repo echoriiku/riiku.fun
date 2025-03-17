@@ -1,7 +1,7 @@
 +++
 title = 'Programas'
 date = 2025-03-16T22:53:22-03:00
-draft = false
+draft = true
 +++
 
 - No momento o Notebook da minha esposa pois meu computador está com problema
