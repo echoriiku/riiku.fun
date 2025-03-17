@@ -4,12 +4,12 @@ title = "(＃￣□￣)o━━☆ ⁂"
 theme = "hugo-bearcub"
 enableRobotsTXT = true
 timezone = "America/Fortaleza"
-copyright = "Be kind ♡"
+copyright = "Por Riiku com ♡"
 
 [languages]
   [languages.pt]
     [languages.pt.params]
-      madeWith = "Feito com [Hugo](https://gohugo.io/) e [Bear Cub](https://github.com/clente/hugo-bearcub)"
+      madeWith = "Feito usando [Hugo](https://gohugo.io/) e [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
 
 [markup]
