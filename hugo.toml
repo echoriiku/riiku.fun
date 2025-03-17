@@ -20,7 +20,7 @@ noClasses = false
 
 [params]
 dateFormat = "02/01/2006"
-themeStyle = "original"
+themeStyle = "herman"
 favicon = "images/favicons/favicon.ico"
   [params.social]
     bluesky = "riiku.fun"
