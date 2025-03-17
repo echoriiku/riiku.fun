@@ -19,9 +19,9 @@ lineNumbersInTable = false
 noClasses = false
 
 [params]
+favicon = "/images/favicon.ico"
 dateFormat = "02/01/2006"
 themeStyle = "herman"
-favicon = "images/favicons/favicon.ico"
   [params.social]
     bluesky = "riiku.fun"
     lastfm = "riicu"
