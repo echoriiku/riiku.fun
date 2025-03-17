@@ -1,15 +1,15 @@
 +++
 title = 'RSS é incrível, você só não sabe disso ainda'
 date = 2025-03-16T00:07:55-03:00
-draft = true
+draft = false
 +++
 Outro dia, um post meu no Bluesky ganhou bastante atenção, felizmente por um bom motivo. O post em questão falava sobre RSS, feed readers e em como eles deveriam ressurgir.
 
-Essa postagem me fez pensar nas várias possibilidades que RSS tem a oferecer, algumas das quais eu já uso. Por isso, vou aproveitar e mostrar algumas das várias formas de usar RSS e quem sabe isso não desperta um novo interesse em você?
+Essa postagem me fez pensar nas várias possibilidades que RSS tem a oferecer. Por isso, vou aproveitar e mostrar algumas das várias formas de usar RSS e quem sabe isso não desperta um novo interesse em você?
 
 ## YouTube
 
-Por incrível que pareça, poucos sabem que é possível seguir canais do YouTube usando RSS. Desde que a Google matou a possibilidade de seguir canais e receber atualizações de forma cronológica, seguir canais via RSS se tornou uma opção ainda mais relevante.
+PPor incrível que pareça, poucos sabem que é possível seguir canais do YouTube usando RSS. Desde que a Google matou a possibilidade de seguir canais e receber atualizações de forma cronológica, seguir canais via RSS se tornou uma opção ainda mais relevante.
 
 Usando RSS, você pode seguir qualquer canal ou playlist sem se preocupar com algoritmo ditando o que você deve assistir. Basta colar a URL do canal em um leitor de RSS que ele deverá conseguir extrair o feed da página.
 
@@ -23,7 +23,7 @@ Um dos meus canais preferidos é o PPF, ele faz covers de músicas de video-game
 
 ![](https://i.postimg.cc/NfVVTZpF/coisas-legais-que-voc-pode-fazer-com-rss-1742076166398.webp)
 
-Usando o [Get RSS Feed](https://getrssfeed.com/), eu consigo essa URL: `https://www.youtube.com/feeds/videos.xml?channel_id=UCohllq0Pk5lQuuNANabHKcg`, que, apesar de ficar escondida, é oficialmente disponibilizada pelo YouTube. Agora você nunca mais vai perder uma postagem do seu canal preferido.
+Com o [Get RSS Feed](https://getrssfeed.com/), eu consigo essa URL: `https://www.youtube.com/feeds/videos.xml?channel_id=UCohllq0Pk5lQuuNANabHKcg`, que, apesar de ficar escondida, é oficialmente disponibilizada pelo YouTube. Agora você nunca mais vai perder uma postagem do seu canal preferido.
 
 ## Bluesky / Mastodon
 
@@ -43,13 +43,23 @@ O Steam infelizmente não deixa tão claro que é possível fazer isso, mas depo
 
 ![](https://i.postimg.cc/mZmKZP9Q/coisas-legais-que-voc-pode-fazer-com-rss-1742080357887.webp)
 
-Primeiro precisamos do `APP ID` do jogo que você quer seguir. Ele é encontrado na URL da página da loja do jogo no Steam. Por exemplo, essa é a URL da página do jogo Hollow Knight: <https://store.steampowered.com/app/367520/Hollow_Knight/>. O `APP ID` de Hollow Knight é 367520. Com esse número guardado, vamos adicioná-lo à URL de Feeds que o Steam disponibiliza: `https://store.steampowered.com/feeds/news/app/[APPID DO JOGO]`. Basta colocar o `APP ID` do jogo ao final da URL que você vai ter o feed de atualizações pra você acompanhar no seu leitor RSS.
+Primeiro precisamos do `APP ID` do jogo que você quer seguir. Ele é encontrado na URL da página da loja do jogo no Steam. Por exemplo, essa é a URL da página do jogo Hollow Knight: <https://store.steampowered.com/app/367520/Hollow_Knight/>. O `APP ID` de Hollow Knight é 367520. Com esse número guardado, vamos adicioná-lo à URL de Feeds que o Steam disponibiliza: `https://store.steampowered.com/feeds/news/app/[APPID DO JOGO]`. Basta colocar o `APP ID` do jogo ao final da URL que você vai ter acesso ao feed de atualizações diretamente no seu leitor RSS.
 
 ## E isso é só o começo
 
 Tem MUITO mais coisa que você pode seguir usando RSS, desde releases a commits no GitHub, sites de notícias (os bons sempre têm RSS), blogs, as possibilidades são enormes!
 
-Vou deixar aqui uma lista de feeds que eu sigo no meu leitor de RSS, sinta-se à vontade pra seguir alguns e aproveitar.
+Além do mais, todas as suas inscrições podem ser exportadas (ou importadas) usando um arquivo `.opml`.Esse arquivo é aceito por todos os leitores de RSS e você pode facilmente migrar seus Feeds de um serviço/app para outro. Procure pela opção exportar/importar no seu leitor que você vai achar onde usar arquivo `.opml`.
+
+E já que não dá pra seguir um Feed sem um app dedicado, aqui vão algumas recomendações dividas por plataforma:
+
+- Web: [Feedly](https://feedly.com/), [Miniflux](https://miniflux.app/), https://www.inoreader.com/
+- Windows: [RSSGuard](https://github.com/martinrotter/rssguard) e [FluentReader](https://github.com/yang991178/fluent-reader)
+- iOS & MacOS: [NetNewsWire](https://netnewswire.com/)
+- Android: [CapyReader](https://github.com/jocmp/capyreader) e [ReadYou](https://github.com/Ashinch/ReadYou)
+- Linux: [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk), [Akregator](https://kontact.kde.org/components/akregator/) e [RSSGuard](https://github.com/martinrotter/rssguard)
+
+Depois da lista de apps, nada melhor que uma lista de feeds pra você seguir, esses são alguns dos que eu sigo no meu leitor de RSS, sinta-se à vontade pra seguir alguns e aproveitar a liberdade de um feed sem algoritmos que você tem total controle sobre o que aparece nele.
 
 ---
 

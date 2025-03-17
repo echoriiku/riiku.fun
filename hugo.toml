@@ -1,96 +1,49 @@
 baseURL = 'https://riiku.fun/'
-languageCode = 'pt-BR'
-title = "⁂ riiku's blog"
-theme = 'typo'
+defaultContentLanguage = "pt"
+title = "(＃￣□￣)o━━━━☆ ⁂"
+theme = "hugo-bearcub"
+enableRobotsTXT = true
+timezone = "America/Fortaleza"
+copyright = "Por Riiku"
 
-[taxonomies]
-tag = 'tags'
+[languages]
+  [languages.pt]
+    [languages.pt.params]
+      madeWith = "Feito com [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
-[params]
-faviconPath = '/favicons/'
-# Meta description
-description = "Um pouco de muita coisa"
-# Appearance settings
-theme = 'auto'
-colorPalette = 'flexoki'
-hideHeader = false
-readTime = true
 
-# Footer
-showFooter = true
-footerContent = "Be kind ♡ | Construido usando [Hugo](https://gohugo.io/) e [Typo](https://github.com/tomfran/typo)"
-
-# Intro on main page, content is markdown
-homeIntroTitle = ''
-homeIntroContent = """
-"""
-
-# Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
-
-# Lists parameters
-paginationSize = 100
-listSummaries = true
-listDateFormat = '2 Jan 2006'
-
-# Breadcrumbs
-breadcrumbs = true
-
-# Social icons
-[[params.social]]
-name = "bluesky"
-url = "https://bsky.app/profile/riiku.fun"
-
-[[params.social]]
-name = "mastodon"
-url = "https://tech.lgbt/@riiku"
-
-[[params.social]]
-name = "lastfm"
-url = "https://last.fm/user/riicu"
-
-[[params.social]]
-name = "letterboxd"
-url = "https://letterboxd.com/echoriiku/"
-
-[[params.social]]
-name = "github"
-url = "https://github.com/echoriiku"
-
-# Main menu pages
-[[params.menu]]
-name = "inicio"
-url = "/"
-
-[[params.menu]]
-name = "posts"
-url = "/posts"
-
-[[params.menu]]
-name = "sobre"
-url = "/about"
-
-[[params.menu]]
-name = "rss"
-url = "/index.xml"
-
-# Syntax highligth on code blocks
 [markup]
 [markup.highlight]
-style = 'algol'
+lineNos = true
+lineNumbersInTable = false
+noClasses = false
 
-[params.umami]
-enable = true
-websiteId = "60f59b59-ff10-4fc1-9b9a-91156f060e06"
-jsLocation = "https://cloud.umami.is/script.js"
+[params]
+dateFormat = "02/01/2006"
+themeStyle = "original"
+favicon = "images/favicons/favicon.ico"
+  [params.social]
+    bluesky = "riiku.fun"
+    lastfm = "riicu"
+    mastodon = "riiku@tech.lgbt"
+    letterboxd = "echoriiku"
+    github = "echoriiku"
+  [params.author]
+    name = "Riiku"
+    email = "ricardoars@tuta.io"
 
-# Giscus comments
-# [params.giscus]
-# enable = false
-# repo = "user/repo"
-# repoid = "repoId"
-# category = "General"
-# categoryid = "categoryId"
-# mapping = "pathname"
-# theme = "preferred_color_scheme"
+
+[[menu.main]]
+name = "inicio"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "sobre"
+url = "/about"
+weight = 3

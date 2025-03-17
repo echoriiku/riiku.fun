@@ -43,6 +43,3 @@ Coisas que aprendi nessa pequena jornada:
 - SSH e SSH-Keys
 
 Antes não conseguiria sem a ajuda do Caprover, hoje já consigo usando Caddy, no futuro, quero aprender a usar Traefik. Veremos o que 2025 tem pela frente.
-
-
-Se tiverem algum comentário, dúvida ou sugestão, me mande um [e-mail](<mailto:ricardoars@tuta.io>)!

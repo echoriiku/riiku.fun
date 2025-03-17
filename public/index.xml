@@ -1,47 +1,399 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home on ⁂ riiku&#39;s blog</title>
+    <title>(＃￣□￣)o━━━━☆ ⁂</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on ⁂ riiku&#39;s blog</description>
-    <generator>Hugo</generator>
-    <language>pt-BR</language>
-    <lastBuildDate>Sun, 16 Mar 2025 00:07:55 -0300</lastBuildDate>
+    <description>Recent content on (＃￣□￣)o━━━━☆ ⁂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <managingEditor>ricardoars@tuta.io (Riiku)</managingEditor>
+    <webMaster>ricardoars@tuta.io (Riiku)</webMaster>
+    <copyright>Por Riiku</copyright>
+    <lastBuildDate>Sun, 16 Mar 2025 22:53:22 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programas</title>
+      <link>http://localhost:1313/programas/</link>
+      <pubDate>Sun, 16 Mar 2025 22:53:22 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
+      <guid>http://localhost:1313/programas/</guid>
+      <description> No momento o Notebook da minha esposa pois meu computador está com problema Moto G30, é velho, lento, mas consigo fazer ligação e usar Whatsapp (mesmo que não goste) </description>
+      <content:encoded><![CDATA[<ul>
+<li>No momento o Notebook da minha esposa pois meu computador está com problema</li>
+<li>Moto G30, é velho, lento, mas consigo fazer ligação e usar Whatsapp (mesmo que não goste)</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>RSS é incrível, você só não sabe disso ainda</title>
       <link>http://localhost:1313/posts/rss-e-muito-bom/</link>
-      <pubDate>Sun, 16 Mar 2025 00:07:55 -0300</pubDate>
+      <pubDate>Sun, 16 Mar 2025 00:07:55 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
       <guid>http://localhost:1313/posts/rss-e-muito-bom/</guid>
-      <description>Outro dia, um post meu no Bluesky ganhou bastante atenção, felizmente por um bom motivo. O post em questão falava sobre RSS, feed readers e em como eles deveriam ressurgir.&#xA;Essa postagem me fez pensar nas várias possibilidades que RSS tem a oferecer, algumas das quais eu já uso. Por isso, vou aproveitar e mostrar algumas das várias formas de usar RSS e quem sabe isso não desperta um novo interesse em você?</description>
+      <description>Outro dia, um post meu no Bluesky ganhou bastante atenção, felizmente por um bom motivo. O post em questão falava sobre RSS, feed readers e em como eles deveriam ressurgir.&#xA;Essa postagem me fez pensar nas várias possibilidades que RSS tem a oferecer. Por isso, vou aproveitar e mostrar algumas das várias formas de usar RSS e quem sabe isso não desperta um novo interesse em você?&#xA;YouTube PPor incrível que pareça, poucos sabem que é possível seguir canais do YouTube usando RSS.</description>
+      <content:encoded><![CDATA[<p>Outro dia, um post meu no Bluesky ganhou bastante atenção, felizmente por um bom motivo. O post em questão falava sobre RSS, feed readers e em como eles deveriam ressurgir.</p>
+<p>Essa postagem me fez pensar nas várias possibilidades que RSS tem a oferecer. Por isso, vou aproveitar e mostrar algumas das várias formas de usar RSS e quem sabe isso não desperta um novo interesse em você?</p>
+<h2 id="youtube">YouTube</h2>
+<p>PPor incrível que pareça, poucos sabem que é possível seguir canais do YouTube usando RSS. Desde que a Google matou a possibilidade de seguir canais e receber atualizações de forma cronológica, seguir canais via RSS se tornou uma opção ainda mais relevante.</p>
+<p>Usando RSS, você pode seguir qualquer canal ou playlist sem se preocupar com algoritmo ditando o que você deve assistir. Basta colar a URL do canal em um leitor de RSS que ele deverá conseguir extrair o feed da página.</p>
+<p>Para isso, vamos utilizar uma ferramenta para descobrir feeds RSS nos sites que iremos visitar. Existem várias, mas a minha preferida é o <a href="https://getrssfeed.com/">Get RSS Feed</a>, já testei várias e essa foi a melhor até hoje.</p>
+<p><img src="https://i.postimg.cc/MpQLYtFD/coisas-legais-que-voc-pode-fazer-com-rss-1742075676391.webp"></p>
+<p>Usando o RSS Feed ASAP, basta colar a URL do canal do YouTube (ou a URL da playlist) que ele irá extrair a URL do Feed RSS pra você seguir no seu leitor RSS de preferência.</p>
+<p>Um dos meus canais preferidos é o PPF, ele faz covers de músicas de video-games, só que infelizmente ele demora muito entre uma postagem e outra, por isso, eu sempre perdia quando um vídeo novo era postado.</p>
+<p><img src="https://i.postimg.cc/NfVVTZpF/coisas-legais-que-voc-pode-fazer-com-rss-1742076166398.webp"></p>
+<p>Com o <a href="https://getrssfeed.com/">Get RSS Feed</a>, eu consigo essa URL: <code>https://www.youtube.com/feeds/videos.xml?channel_id=UCohllq0Pk5lQuuNANabHKcg</code>, que, apesar de ficar escondida, é oficialmente disponibilizada pelo YouTube. Agora você nunca mais vai perder uma postagem do seu canal preferido.</p>
+<h2 id="bluesky--mastodon">Bluesky / Mastodon</h2>
+<p>Ao contrário da rede social do megalomaníaco bilionário, Bluesky (e o Mastodon, que por sinal implementou isso primeiro), disponibilizam feed RSS de todos os perfis públicos.</p>
+<p>Diferente do YouTube, é super fácil descobrir a URL do Feed de um perfil, basta copiar a URL do perfil e adicionar <code>/rss</code> no final da URL!</p>
+<p><img src="https://i.postimg.cc/SNj3nmLH/coisas-legais-que-voc-pode-fazer-com-rss-1742077389834.webp"></p>
+<p>Pronto, agora você nunca mais vai perder a postagem daquele perfil que você adora!</p>
+<h2 id="steam">Steam</h2>
+<p>Que tal ficar sempre atualizado com as novidades dos seus jogos preferidos? Saber exatamente quando aquela DLC saiu ou quando aquele jogo que você adora mas não recebe atualizações há meses finalmente recebe conteúdos novos? Com RSS isso é possível!</p>
+<p>O Steam infelizmente não deixa tão claro que é possível fazer isso, mas depois que você descobre, é bem fácil de usar.</p>
+<p><img src="https://i.postimg.cc/mZmKZP9Q/coisas-legais-que-voc-pode-fazer-com-rss-1742080357887.webp"></p>
+<p>Primeiro precisamos do <code>APP ID</code> do jogo que você quer seguir. Ele é encontrado na URL da página da loja do jogo no Steam. Por exemplo, essa é a URL da página do jogo Hollow Knight: <a href="https://store.steampowered.com/app/367520/Hollow_Knight/">https://store.steampowered.com/app/367520/Hollow_Knight/</a>. O <code>APP ID</code> de Hollow Knight é 367520. Com esse número guardado, vamos adicioná-lo à URL de Feeds que o Steam disponibiliza: <code>https://store.steampowered.com/feeds/news/app/[APPID DO JOGO]</code>. Basta colocar o <code>APP ID</code> do jogo ao final da URL que você vai ter acesso ao feed de atualizações diretamente no seu leitor RSS.</p>
+<h2 id="e-isso-é-só-o-começo">E isso é só o começo</h2>
+<p>Tem MUITO mais coisa que você pode seguir usando RSS, desde releases a commits no GitHub, sites de notícias (os bons sempre têm RSS), blogs, as possibilidades são enormes!</p>
+<p>Além do mais, todas as suas inscrições podem ser exportadas (ou importadas) usando um arquivo <code>.opml</code>.Esse arquivo é aceito por todos os leitores de RSS e você pode facilmente migrar seus Feeds de um serviço/app para outro. Procure pela opção exportar/importar no seu leitor que você vai achar onde usar arquivo <code>.opml</code>.</p>
+<p>E já que não dá pra seguir um Feed sem um app dedicado, aqui vão algumas recomendações dividas por plataforma:</p>
+<ul>
+<li>Web: <a href="https://feedly.com/">Feedly</a>, <a href="https://miniflux.app/">Miniflux</a>, <a href="https://www.inoreader.com/">https://www.inoreader.com/</a></li>
+<li>Windows: <a href="https://github.com/martinrotter/rssguard">RSSGuard</a> e <a href="https://github.com/yang991178/fluent-reader">FluentReader</a></li>
+<li>iOS &amp; MacOS: <a href="https://netnewswire.com/">NetNewsWire</a></li>
+<li>Android: <a href="https://github.com/jocmp/capyreader">CapyReader</a> e <a href="https://github.com/Ashinch/ReadYou">ReadYou</a></li>
+<li>Linux: <a href="https://gitlab.com/news-flash/news_flash_gtk">NewsFlash</a>, <a href="https://kontact.kde.org/components/akregator/">Akregator</a> e <a href="https://github.com/martinrotter/rssguard">RSSGuard</a></li>
+</ul>
+<p>Depois da lista de apps, nada melhor que uma lista de feeds pra você seguir, esses são alguns dos que eu sigo no meu leitor de RSS, sinta-se à vontade pra seguir alguns e aproveitar a liberdade de um feed sem algoritmos que você tem total controle sobre o que aparece nele.</p>
+<hr>
+<h2 id="anime--manga-blogs-">Anime &amp; Manga Blogs 🇯🇵</h2>
+<ul>
+<li><a href="https://www.animemangastudies.com/feed/">Anime and Manga Studies</a> (<a href="https://www.animemangastudies.com/feed/">feed</a>)</li>
+<li><a href="https://fullfrontal.moe/feed/">Full Frontal</a> (<a href="https://fullfrontal.moe/feed/">feed</a>)</li>
+<li><a href="https://blog.sakugabooru.com/feed/">Sakuga Blog</a> (<a href="https://blog.sakugabooru.com/feed/">feed</a>)</li>
+<li><a href="https://satchiikoma.wordpress.com/feed/">SatchiiKoma</a> (<a href="https://satchiikoma.wordpress.com/feed/">feed</a>)</li>
+<li><a href="https://www.zimmerit.moe/feed/">ZIMMERIT</a> (<a href="https://www.zimmerit.moe/feed/">feed</a>)</li>
+</ul>
+<h2 id="daily-news-">Daily News 📰</h2>
+<ul>
+<li><a href="https://www.404media.co/rss/">404 Media</a> (<a href="https://www.404media.co/rss/">feed</a>)</li>
+<li><a href="https://feed.alternativeto.net/news/all/">AlternativeTo News</a> (<a href="https://feed.alternativeto.net/news/all/">feed</a>)</li>
+</ul>
+<h2 id="developer-activity-">Developer Activity 💾</h2>
+<ul>
+<li><a href="https://github.com/miniflux/v2/commits.atom">Miniflux Commits</a> (<a href="https://github.com/miniflux/v2/commits.atom">feed</a>)</li>
+</ul>
+<h2 id="gaming-blogs">Gaming Blogs🕹️</h2>
+<ul>
+<li><a href="https://buried-treasure.org/feed/">Buried Treasure</a> (<a href="https://buried-treasure.org/feed/">feed</a>)</li>
+<li><a href="http://cdrom.ca/feed.xml">CD-ROM Journal</a> (<a href="http://cdrom.ca/feed.xml">feed</a>)</li>
+<li><a href="https://ephemeralenigmascom.wordpress.com/feed/">Ephemeral Enigmas</a> (<a href="https://ephemeralenigmascom.wordpress.com/feed/">feed</a>)</li>
+<li><a href="https://grandtextauto.soe.ucsc.edu/feed/">Grand Text Auto</a> (<a href="https://grandtextauto.soe.ucsc.edu/feed/">feed</a>)</li>
+<li><a href="http://www.hardcoregaming101.net/feed/">Hardcore Gaming 101</a> (<a href="http://www.hardcoregaming101.net/feed/">feed</a>)</li>
+<li><a href="https://kimimithegameeatingshemonster.com/feed/">Kimimi The Game-Eating She-Monster</a> (<a href="https://kimimithegameeatingshemonster.com/feed/">feed</a>)</li>
+<li><a href="https://paintedpixelsblog.wordpress.com/feed/">Painted Pixels</a> (<a href="https://paintedpixelsblog.wordpress.com/feed/">feed</a>)</li>
+<li><a href="https://pixelpoppers.com/index.xml">Pixel Poppers</a> (<a href="https://pixelpoppers.com/index.xml">feed</a>)</li>
+<li><a href="https://www.playthepast.org/?feed=rss2">Playthepast</a> (<a href="https://www.playthepast.org/?feed=rss2">feed</a>)</li>
+<li><a href="https://simonschreibt.de/feed/">Simonschreibt.</a> (<a href="https://simonschreibt.de/feed/">feed</a>)</li>
+<li><a href="https://www.filfre.net/feed/">The Digital Antiquarian</a> (<a href="https://www.filfre.net/feed/">feed</a>)</li>
+<li><a href="https://www.thefrugalgamer.net/rss.xml">TheFrugalGamer.Net Updates Log</a> (<a href="https://www.thefrugalgamer.net/rss.xml">feed</a>)</li>
+<li><a href="https://www.blogger.com/feeds/416041531001318874/posts/default">Toomanywires</a> (<a href="https://www.blogger.com/feeds/416041531001318874/posts/default">feed</a>)</li>
+<li><a href="https://whirlitzer-of-wisdom.blogspot.com/feeds/posts/default">Whirlitzer of Wisdom</a> (<a href="https://whirlitzer-of-wisdom.blogspot.com/feeds/posts/default">feed</a>)</li>
+</ul>
+<h2 id="mags--articles-">Mags &amp; Articles 📚</h2>
+<ul>
+<li><a href="https://www.yokogaomag.com/">Yokogao Magazine │ Japanese Culture Magazine</a> (<a href="https://rss.diffbot.com/atom?url=https://www.yokogaomag.com/">feed</a>)</li>
+<li><a href="https://asteriskmag.com/feed">Asterisk</a> (<a href="https://asteriskmag.com/feed">feed</a>)</li>
+<li><a href="https://bluelabyrinths.com/feed/">Blue Labyrinths</a> (<a href="https://bluelabyrinths.com/feed/">feed</a>)</li>
+<li><a href="https://www.codastory.com/feed/">Coda Story</a> (<a href="https://www.codastory.com/feed/">feed</a>)</li>
+<li><a href="https://epochemagazine.org/feed/">Epoché Magazine</a> (<a href="https://epochemagazine.org/feed/">feed</a>)</li>
+<li><a href="https://hazlitt.net/rss.xml">Hazlitt</a> (<a href="https://hazlitt.net/rss.xml">feed</a>)</li>
+<li><a href="https://www.noemamag.com/?feed=noemarss">NOEMA</a> (<a href="https://www.noemamag.com/?feed=noemarss">feed</a>)</li>
+<li><a href="https://magazine.atavist.com/feed/">The Atavist Magazine</a> (<a href="https://magazine.atavist.com/feed/">feed</a>)</li>
+</ul>
+<h2 id="miscellaneous-">Miscellaneous 🌈</h2>
+<ul>
+<li><a href="https://haveibeenpwned.com">Have I Been Pwned</a> (<a href="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches?ref=troyhunt.com">feed</a>)</li>
+<li><a href="https://obsidianjourney.com/">Obsidian Journey</a> (<a href="https://obsidianjourney.com/index.xml">feed</a>)</li>
+<li><a href="https://ooh.directory/feeds/recently-added.xml">ooh.directory recently added blogs</a> (<a href="https://ooh.directory/feeds/recently-added.xml">feed</a>)</li>
+</ul>
+<h2 id="open-source--linux-news-">Open Source &amp; Linux News 🐧</h2>
+<ul>
+<li><a href="https://fedoramagazine.org/">Fedora Magazine</a> (<a href="https://fedoramagazine.org/feed/">feed</a>)</li>
+<li><a href="https://blogs.kde.org/index.xml">KDE Blogs</a> (<a href="https://blogs.kde.org/index.xml">feed</a>)</li>
+<li><a href="https://thisweek.gnome.org/index.xml">This Week in GNOME</a> (<a href="https://thisweek.gnome.org/index.xml">feed</a>)</li>
+<li><a href="https://pointieststick.com/category/this-week-in-kde/feed/">This Week in KDE</a> (<a href="https://pointieststick.com/category/this-week-in-kde/feed/">feed</a>)</li>
+</ul>
+<h2 id="personal-blogs-">Personal Blogs 📝</h2>
+<ul>
+<li><a href="https://82mhz.net/">82MHz</a> (<a href="https://82mhz.net/index.xml">feed</a>)</li>
+<li><a href="https://acoup.blog/feed/">A Collection of Unmitigated Pedantry</a> (<a href="https://acoup.blog/feed/">feed</a>)</li>
+<li><a href="https://analogoffice.net/feed.xml">Analog Office</a> (<a href="https://analogoffice.net/feed.xml">feed</a>)</li>
+<li><a href="https://andregarzia.com/feeds/all.atom.xml">AndreGarzia.com</a> (<a href="https://andregarzia.com/feeds/all.atom.xml">feed</a>)</li>
+<li><a href="http://ascii.textfiles.com/feed">ASCII by Jason Scott</a> (<a href="http://ascii.textfiles.com/feed">feed</a>)</li>
+<li><a href="https://bacardi55.io/posts/">Bacardi55&rsquo;s Web Cave</a> (<a href="https://bacardi55.io/posts/index.xml">feed</a>)</li>
+<li><a href="https://bobulate.com/feed/">Bobulate</a> (<a href="https://bobulate.com/feed/">feed</a>)</li>
+<li><a href="https://cassidoo.co/">Cassidy Williams</a> (<a href="https://cassidoo.co/rss.xml">feed</a>)</li>
+<li><a href="https://conoroneill.net/">Cross Dominant</a> (<a href="https://conoroneill.net/index.xml">feed</a>)</li>
+<li><a href="https://www.datagubbe.se/atom.xml">datagubbe</a> (<a href="https://www.datagubbe.se/atom.xml">feed</a>)</li>
+<li><a href="https://daudix.one/blog/">Daudix - Progressive Enhancement</a> (<a href="https://daudix.one/blog/atom.xml">feed</a>)</li>
+<li><a href="https://soatok.blog/feed/">Dhole Moments</a> (<a href="https://soatok.blog/feed/">feed</a>)</li>
+<li><a href="https://ecc-comp.blogspot.com/feeds/posts/default">Eccentric Computing</a> (<a href="https://ecc-comp.blogspot.com/feeds/posts/default">feed</a>)</li>
+<li><a href="https://edleeman.co.uk/index.xml">Ed Leeman</a> (<a href="https://edleeman.co.uk/index.xml">feed</a>)</li>
+<li><a href="https://erinkissane.com/feed.rss">Erin Kissane&rsquo;s small internet website</a> (<a href="https://erinkissane.com/feed.rss">feed</a>)</li>
+<li><a href="https://fabiensanglard.net/rss.xml">Fabien Sanglard</a> (<a href="https://fabiensanglard.net/rss.xml">feed</a>)</li>
+<li><a href="https://fromearthtothestars.com/feed/">From Earth to the Stars</a> (<a href="https://fromearthtothestars.com/feed/">feed</a>)</li>
+<li><a href="https://growinguptransgender.com/feed/">Growing Up Transgender</a> (<a href="https://growinguptransgender.com/feed/">feed</a>)</li>
+<li><a href="https://poor.dev/index.xml">Hi there! on poor.dev</a> (<a href="https://poor.dev/index.xml">feed</a>)</li>
+<li><a href="https://interplayoflight.wordpress.com/feed/">Interplay of Light</a> (<a href="https://interplayoflight.wordpress.com/feed/">feed</a>)</li>
+<li><a href="https://blog.jim-nielsen.com/feed.xml">Jim Nielsen’s Blog</a> (<a href="https://blog.jim-nielsen.com/feed.xml">feed</a>)</li>
+<li><a href="https://joshcollinsworth.com/api/rss.xml">Josh Collinsworth</a> (<a href="https://joshcollinsworth.com/api/rss.xml">feed</a>)</li>
+<li><a href="https://hamatti.org/feed/feed.xml">Juha-Matti Santala - Community Builder. Dreamer. Adventurer.</a> (<a href="https://hamatti.org/feed/feed.xml">feed</a>)</li>
+<li><a href="https://lucamarx.com/blog/rss.xml">Luca Marx</a> (<a href="https://lucamarx.com/blog/rss.xml">feed</a>)</li>
+<li><a href="https://maia.crimew.gay/feed.xml">maia blog</a> (<a href="https://maia.crimew.gay/feed.xml">feed</a>)</li>
+<li><a href="https://manualdousuario.net/feed/">Manual do Usuário</a> (<a href="https://manualdousuario.net/feed/">feed</a>)</li>
+<li><a href="https://marius.ink/feed.atom">Marius Masalar</a> (<a href="https://marius.ink/feed.atom">feed</a>)</li>
+<li><a href="https://blog.omgmog.net/feed.xml">Max Glenister</a> (<a href="https://blog.omgmog.net/feed.xml">feed</a>)</li>
+<li><a href="https://maya.land/feed.xml">maya.land</a> (<a href="https://maya.land/feed.xml">feed</a>)</li>
+<li><a href="https://www.supergoodcode.com/feed.xml">Mike Blumenkrantz</a> (<a href="https://www.supergoodcode.com/feed.xml">feed</a>)</li>
+<li><a href="https://minutestomidnight.co.uk">Minutes to Midnight</a> (<a href="https://minutestomidnight.co.uk/feed.xml">feed</a>)</li>
+<li><a href="https://journal.neilgaiman.com/feeds/posts/default">Neil Gaiman&rsquo;s Journal</a> (<a href="https://journal.neilgaiman.com/feeds/posts/default">feed</a>)</li>
+<li><a href="http://nickdiego.dev/blog/">Nickdiego Blog</a> (<a href="https://nickdiego.dev/blog/index.xml">feed</a>)</li>
+<li><a href="https://nicole.express/feed.xml">Nicole Express</a> (<a href="https://nicole.express/feed.xml">feed</a>)</li>
+<li><a href="https://rosenzweig.io/feed.xml">On Life and Lisp</a> (<a href="https://rosenzweig.io/feed.xml">feed</a>)</li>
+<li><a href="https://practicalbetterments.com/feed.xml">Practical betterments</a> (<a href="https://practicalbetterments.com/feed.xml">feed</a>)</li>
+<li><a href="https://www.queridoclassico.com/feeds/posts/default">Querido Clássico</a> (<a href="https://www.queridoclassico.com/feeds/posts/default">feed</a>)</li>
+<li><a href="https://resolutereader.blogspot.com/feeds/posts/default">ResoluteReader</a> (<a href="https://resolutereader.blogspot.com/feeds/posts/default">feed</a>)</li>
+<li><a href="https://so1o.xyz/blog/">Roar of the Days</a> (<a href="https://so1o.xyz/feed.xml">feed</a>)</li>
+<li><a href="https://rknight.me/subscribe/posts/atom.xml">Robb Knight • Posts • Atom Feed</a> (<a href="https://rknight.me/subscribe/posts/atom.xml">feed</a>)</li>
+<li><a href="https://rubenerd.com/feed/">Rubenerd</a> (<a href="https://rubenerd.com/feed/">feed</a>)</li>
+<li><a href="https://sdomi.pl/weblog/atom/">sdomi&rsquo;s weblog</a> (<a href="https://sdomi.pl/weblog/atom/">feed</a>)</li>
+<li><a href="https://slatecave.net/atom.xml">slatecave.net</a> (<a href="https://slatecave.net/atom.xml">feed</a>)</li>
+<li><a href="https://v5.chriskrycho.com/feed.xml">Sympolymathesy, by Chris Krycho</a> (<a href="https://v5.chriskrycho.com/feed.xml">feed</a>)</li>
+<li><a href="https://blog.carlana.net/index.xml">The Ethically-Trained Programmer</a> (<a href="https://blog.carlana.net/index.xml">feed</a>)</li>
+<li><a href="https://osshistory.org/feed">The OSS History Newsletter</a> (<a href="https://osshistory.org/feed">feed</a>)</li>
+<li><a href="https://trstringer.com/feed.xml">Thomas Stringer</a> (<a href="https://trstringer.com/feed.xml">feed</a>)</li>
+<li><a href="https://www.uncharted-worlds.org/blog/feed/">Uncharted Worlds</a> (<a href="https://www.uncharted-worlds.org/blog/feed/">feed</a>)</li>
+<li><a href="https://vadosware.io/index.xml">VADOSWARE</a> (<a href="https://vadosware.io/index.xml">feed</a>)</li>
+<li><a href="https://cheshireviolet.github.io/">violeta | ceci blog</a> (<a href="https://cheshireviolet.github.io/index.xml">feed</a>)</li>
+<li><a href="https://blog.vladzahorodnii.com/feed/">Vlad Zahorodnii&rsquo;s Blog</a> (<a href="https://blog.vladzahorodnii.com/feed/">feed</a>)</li>
+</ul>
+]]></content:encoded>
     </item>
     <item>
       <title>Self-Hosting</title>
       <link>http://localhost:1313/posts/self-hosting-2025/</link>
-      <pubDate>Sat, 15 Feb 2025 19:59:01 -0300</pubDate>
+      <pubDate>Sat, 15 Feb 2025 19:59:01 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
       <guid>http://localhost:1313/posts/self-hosting-2025/</guid>
       <description>Em 2025, decidi mudar um pouco as coisas. Pra começar, finalmente entendi que não preciso começar sempre pelo método mais completo (que acaba sendo mais difícil), não tem nada de errado em dar pequenos passos pra depois correr.&#xA;Ano passado, em 2024, comecei a fazer &amp;lsquo;self-hosting&amp;rsquo; de alguns aplicativos, self-hosting entre aspas pois pra alguns só é self-hosting de verdade quando você faz tudo em casa, com seu próprio hardware. Algo que, infelizmente, não é o meu caso, considerando os desafios de manter um computador ligado 24 horas por dia, 7 dias por semana no Brasil.</description>
+      <content:encoded><![CDATA[<p>Em 2025, decidi mudar um pouco as coisas. Pra começar, finalmente entendi que não preciso começar sempre pelo método mais completo (que acaba sendo mais difícil), não tem nada de errado em dar pequenos passos pra depois correr.</p>
+<p>Ano passado, em 2024, comecei a fazer &lsquo;self-hosting&rsquo; de alguns aplicativos, self-hosting entre aspas pois pra alguns só é self-hosting de verdade quando você faz tudo em casa, com seu próprio hardware. Algo que, infelizmente, não é o meu caso, considerando os desafios de manter um computador ligado 24 horas por dia, 7 dias por semana no Brasil. Por isso, optei por uma VPS, um servidor Linux remoto.</p>
+<p>Como eu sabia pouco sobre self-hosting, comecei usando um aplicativo chamado Caprover, que basicamente gerenciava tudo para mim, desde a instalação de aplicativos com um clique até certificados para que meu site pudesse usar HTTPS. Isso tudo era uma mão na roda, uma pá de aplicativos pra só clicar e rodar. Só que, como qualquer programa, algumas coisas nem sempre funcionam como esperado. Nessas horas, eu precisava colocar a mão na massa, abrir o terminal da VPS e tentar descobrir como fazer o que eu precisava, seja para resolver um problema ou para realizar algo que eu queria com um aplicativo (como quando precisei fazer backup de um banco de dados. Eu nunca tinha feito isso antes, mas aprendi a acessar um container Docker em execução, fazer o dump do banco de dados e copiar para fora do container!).</p>
+<h2 id="novo-ano-nova-vps">Novo ano, nova VPS</h2>
+<p>Com a virada do ano, os preços da VPS que estava usando aumentaram, o que me fez buscar por outras alternativas. Aproveitei a oportunidade para começar tudo do zero, fazendo o máximo possível manualmente. Para isso, instalei o Debian (ao invés do Ubuntu da antiga VPS), fiz a configuração básica do Docker, instalei o <a href="https://caddyserver.com/">Caddy</a> para usar como proxy reverso e criei uma série de pastas para cada aplicativo, cada uma com seu arquivo docker-compose.yaml dentro, deixando tudo organizado.</p>
+<p>Atualmente, tenho 23 containers em execução e 16 serviços. Os meus mais utilizados são:</p>
+<ul>
+<li>
+<p><a href="https://miniflux.app/">Miniflux</a>, um leitor de RSS minimalista que é simplesmente delicioso de usar.</p>
+</li>
+<li>
+<p><a href="https://docs.rsshub.app/">RSSHub</a>, um serviço que basicamente cria feeds de RSS de <del>quase</del> qualquer coisa, complementa o Miniflux.</p>
+</li>
+<li>
+<p><a href="https://readeck.org/en/">Readeck</a>, um read-it-later, onde posso salvar os artigos/links mais legais que chegam pelo Miniflux pra ler depois (os poucos que não leio diretamente no Miniflux)</p>
+</li>
+<li>
+<p><a href="https://docs.searxng.org/">SearXNG</a>, literalmente um mecanismo de busca, só que ‘meu’!</p>
+</li>
+</ul>
+<p>É muito bom ter total controle sobre um serviço que você pode acessar de qualquer lugar, e que não é controlado por uma grande empresa de tecnologia. Todos esses serviços/aplicativos que tenho na minha VPS são de código aberto, gratuitos e contam com a colaboração da comunidade para o desenvolvimento.</p>
+<p>Apesar de tudo isso, acho que self-hosting é algo que todo que gosta um pouco de computadores deveria tentar, na grande maioria das vezes você nem precisa de um servidor remoto, tem inúmeros apps que funcionam localmente usando docker, fora que é uma excelente oportunidade pra aprender mais sobre como esses serviços funcionam.</p>
+<p>Coisas que aprendi nessa pequena jornada:</p>
+<ul>
+<li>
+<p>Docker</p>
+<ul>
+<li>
+<p>Containers</p>
+</li>
+<li>
+<p>Volumes</p>
+</li>
+<li>
+<p>Networks</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Reverse Proxy</p>
+</li>
+<li>
+<p>SSH e SSH-Keys</p>
+</li>
+</ul>
+<p>Antes não conseguiria sem a ajuda do Caprover, hoje já consigo usando Caddy, no futuro, quero aprender a usar Traefik. Veremos o que 2025 tem pela frente.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Sincronizando Obsidian com Cloudflare R2</title>
       <link>http://localhost:1313/posts/obsidian-sync-gratuito/</link>
-      <pubDate>Mon, 14 Oct 2024 10:29:46 -0300</pubDate>
+      <pubDate>Mon, 14 Oct 2024 10:29:46 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
       <guid>http://localhost:1313/posts/obsidian-sync-gratuito/</guid>
       <description>Requisitos: Plugin RemotelySave Conta na Cloudflare Cartão de crédito (necessário pro cadastro) R2 Bucket Sincronizar suas notas no Obsidian, entre as várias plataformas suportadas pelo aplicativo, costuma ser uma das maiores barreiras que os usuários tem ao mergulhar no incrível universo de possibilidades que o Obsidian oferece. Por um lado, a simplicidade e por outro as possibilidades quase ilimitadas que o aplicativo oferece.&#xA;Depois de tentar vários métodos, inclusive o oficial Obsidian Sync, descobri que você pode usar a generosa oferta gratuita da Cloudlfare para conseguir sincronizar suas notas e arquivos.</description>
+      <content:encoded><![CDATA[<hr>
+<h2 id="requisitos">Requisitos:</h2>
+<ul>
+<li>Plugin <a href="https://obsidian.md/plugins?id=remotely-save">RemotelySave</a></li>
+<li>Conta na Cloudflare
+<ul>
+<li>Cartão de crédito (necessário pro cadastro)</li>
+<li><a href="https://www.cloudflare.com/pt-br/developer-platform/r2/">R2 Bucket</a></li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>Sincronizar suas notas no Obsidian, entre as várias plataformas suportadas pelo aplicativo, costuma ser uma das maiores barreiras que os usuários tem ao mergulhar no incrível universo de possibilidades que o Obsidian oferece. Por um lado, a simplicidade e por outro as possibilidades quase ilimitadas que o aplicativo oferece.</p>
+<p>Depois de tentar vários métodos, inclusive o oficial <a href="https://obsidian.md/sync">Obsidian Sync</a>, descobri que você pode usar a generosa oferta gratuita da Cloudlfare para conseguir sincronizar suas notas e arquivos. O plano <code>Padrão</code> do Obsidian Sync, limita o usuário a 1GB de armazenamento e um limite por arquivo de 5MB, que particularmente acho extremamente restritivo, considerando que a opção de plano <code>Plus</code>, o limite sobe para 200MB por arquivo, um aumento de 40x, e um cofre de 10GB de armazenamento.</p>
+<p>Usando o método que vou compartilhar, você terá o armazenamento do plano <code>Plus</code> e sem a limitação de 200MB por arquivo, totalmente de graça! (até o momento da postagem).</p>
+<p>Bom, vamos começar:</p>
+<h2 id="criando-um-r2-bucket-na-cloudflare">Criando um R2 Bucket na Cloudflare</h2>
+<p>Após a criação de sua conta na Cloudflare, na barra lateral, clique em <code>R2 Object Storage</code>:</p>
+<p><img src="https://i.postimg.cc/xC4rpMwh/auvg7c.webp"></p>
+<p>Crie um Bucket:</p>
+<p><img src="https://i.postimg.cc/N0NfY9h7/5m00ms.webp"></p>
+<p>Escolha um bom nome para o seu Bucket, <strong>esse nome não pode ser alterado!</strong> e clique em <code>Create bucket</code>.</p>
+<p><img src="https://i.postimg.cc/jqDCxXSW/e1q0b9.webp"></p>
+<h2 id="criando-um-api-token">Criando um API Token</h2>
+<p>Volte ao Overview R2 Object Storage e clique em <code>Manage R2 API Tokens</code> e crie um API Token:</p>
+<p><img src="https://i.postimg.cc/rs0BBzcm/8gfl90.webp"></p>
+<p><img src="https://i.postimg.cc/N0NfY9h7/5m00ms.webp"></p>
+<p>Escolha um nome para o Token, nas Permissões escolha <code>Read &amp; Write</code>, em seguida selecione seu <code>Bucket</code> na parte seguinte, fazendo com que seu API Token só tenha acesso a esse único <code>Bucket</code>, e por fim, crie o Token.
+<img src="https://i.postimg.cc/zGFGt20Q/3xqckt.webp"></p>
+<p>Na próxima tela, guarde de forma segura o:</p>
+<ul>
+<li><strong>Token value</strong></li>
+<li><strong>Access Key ID</strong></li>
+<li><strong>Secret Access Key</strong></li>
+<li><strong>Jurisdiction-Specific Endpoints for S3 Clients</strong></li>
+</ul>
+<p>Esses são os dados que você vai colocar no seu Obsidian.</p>
+<h2 id="remotely-save-plugin">Remotely Save Plugin</h2>
+<p>Nesse momento, é fundamental configurar corretamente o plugin Remotely Save no seu Obsidian. Este processo só precisa ser realizado uma vez, já que o plugin oferece a opção de exportar suas configurações pré-definidas, você pode aproveitar essa oportunidade para definir as configurações de sincronização do jeito que você gosta.</p>
+<h3 id="configurações-iniciais">Configurações Iniciais</h3>
+<p>Após a instalação do <a href="https://obsidian.md/plugins?id=remotely-save">RemotelySave</a>, vá nas <code>Configurações</code> &gt; <code>Plugins Não Oficiais</code> &gt; <code>Remotely Save</code> e escolha <code>S3 &amp; Compatible</code> e preencha os dados que você salvou anteriormente:</p>
+<p><img src="https://i.postimg.cc/FFwz7LYT/pg8dtp.webp"></p>
+<h3 id="configurações-básicas">Configurações Básicas</h3>
+<p>Feito isso, configure as opções básicas de sincronização, particularmente acho essas as ideais, com sincronização ao iniciar o aplicativo e sincronização feita a cada modificação:</p>
+<p><img src="https://i.postimg.cc/WzBBTjb7/ocde91.webp"></p>
+<h3 id="exportando-configurações">Exportando configurações</h3>
+<p>Por fim, você pode (e deve) exportar suas configurações para que não precise fazer esse processo novamente em outros dispositivos:</p>
+<p><img src="https://i.postimg.cc/4Ntdtxts/s5x2qr.webp"></p>
+<p><img src="https://i.postimg.cc/RZB0TxQf/zskdhi.webp"></p>
+<p>Obs.: Se acontecer algum erro ao fazer a primeira sincronização, é normal, o <a href="https://obsidian.md/plugins?id=remotely-save">RemotelySave</a> por padrão coloca um limite de 50% dos itens, mas você pode desabilitar nas configurações do Plugin:</p>
+<p><img src="https://i.postimg.cc/nLVc6KWh/4vjzmg.webp"></p>
+<p><strong>Lembre-se:</strong> ao trabalhar com serviços em nuvem, é fundamental manter suas credenciais seguras e realizar backups regularmente para garantir a proteção dos seus dados, sincronização =/= backup!</p>
+<p>Pronto! Agora você tem sincronização, similar ao Obsidian Sync oficial, de forma gratuita e com você no controle dos dados. E graças ao generoso plano gratúito da Cloudflare, você pode sincronizar MUITAS vezes ao dia.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Usando RSS em 202X</title>
       <link>http://localhost:1313/posts/usando-rss-hoje/</link>
-      <pubDate>Fri, 04 Oct 2024 17:21:53 -0300</pubDate>
+      <pubDate>Fri, 04 Oct 2024 17:21:53 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
       <guid>http://localhost:1313/posts/usando-rss-hoje/</guid>
       <description>Imagina ter controle total sobre o que você lê e informações que recebe online. Essa é a ideia do RSS. Bom não necessariamente isso, mas gosto de pensar que é.&#xA;O RSS é um formato simples que permite a você se inscrever em seus sites, blogs e podcasts favoritos e receber as últimas atualizações em um só lugar. Ao contrário das redes sociais, que controlam o que você vê através de algoritmos, o RSS coloca você no comando.</description>
+      <content:encoded><![CDATA[<p>Imagina ter controle total sobre o que você lê e informações que recebe online. Essa é a ideia do RSS. Bom não necessariamente isso, mas gosto de pensar que é.</p>
+<p>O RSS é um formato simples que permite a você se inscrever em seus sites, blogs e podcasts favoritos e receber as últimas atualizações em um só lugar. Ao contrário das redes sociais, que controlam o que você vê através de algoritmos, o RSS coloca você no comando.</p>
+<h2 id="por-que-usar-o-rss">Por que usar o RSS?</h2>
+<ul>
+<li>Personalização: Crie suas próprias listas de leitura e organize as informações da forma que preferir.</li>
+<li>Economia de tempo: Evite perder tempo procurando por novas publicações em diferentes sites.</li>
+<li>Privacidade: Tenha controle sobre seus dados e evite a manipulação algorítmica.</li>
+<li>Conteúdo de qualidade: Descubra novos conteúdos e autores que se alinham aos seus interesses.</li>
+</ul>
+<h2 id="rss-eu-já-ouvi-falar-disso">&ldquo;RSS, eu já ouvi falar disso&rdquo;</h2>
+<p>Provavelmente sim, essa história vem desde os meados dos anos 90, com dedo do Netscape, a internet usa o protocolo RSS para se comunicar, e hoje com a ascensão da indie/small web, RSS volta com tudo, com mais de 1/3 da internet é movida por WordPress, que tem RSS nativo (basta colocar <code>/feed</code> no final da URL) e os Blogs Pessoais (igual esse que você está lendo agora!), RSS mostrou mais ainda sua relevância.</p>
+<p>Com a decadência do Twitter/X, Instagram, TikTok e outras redes sociais que priorizam manter o usuário na plataforma por pela maior quantidade de tempo possível, ter controle sobre o que aparece na sua linha do tempo se se tornou uma regalia que poucos possuem. Desinformação desenfreada, conteúdos que não são do seu interesse, contas que você não seguiu e falta total de moderação, são só alguns dos motivos que fizeram uma boa parte da base de usuários dessas redes sociais migrarem para o Bluesky e Mastodon.</p>
+<p>Entretanto, com essa mudança, muitos usuários que também usavam essas redes sociais para acompanhar notícias e receber atualizações, das mais diversas fontes, se viram sem opções, muitos perfis não fizeram a mesma migração.</p>
+<p>É nesse momento que entra o RSS e seu leitor. Com ele você pode seguir as mais variadas fontes <strong>de sua escolha</strong>, e somente elas, nada de algoritmos decidindo por você o que deve ver, nada de abrir todas as fontes de notícias, uma por uma, para receber atualizações, basta abrir seu leitor RSS e todas as atualizações recentes de jornais, blogs, atualização de aplicativos, podcasts, perfis do Bluesky e Mastodon, canais do YouTube, comunidades do Reddit e <strong>muitos</strong> outros.</p>
+<h2 id="usando-rss">Usando RSS</h2>
+<p>Para começar, usaremos o <a href="https://github.com/martinrotter/rssguard">RSSGuard</a>, ele funciona Windows, Linux e macOS.</p>
+<p><img src="https://github.com/martinrotter/rssguard/raw/master/resources/graphics/official_pictures/main-window-linux.png"></p>
+<p>Após baixar e instalar (você encontra a última versão lançada <a href="https://github.com/martinrotter/rssguard/releases/latest">aqui</a>), logo de cara ao abrir o RSSGuard, ele nos recebe com uma tela de opções, selecionaremos <code>RSS/ATOM</code>:</p>
+<p><img src="https://i.postimg.cc/pV9vQ9nT/Captura-de-tela-2024-10-04-113126.png"></p>
+<p>E selecionar <code>Não</code> para adicionar os feeds recomendados:</p>
+<p><img src="https://i.postimg.cc/g2pPPNtX/Captura-de-tela-2024-10-04-113216.png"></p>
+<p>Mude o layout para três painéis verticais:</p>
+<p><img src="https://i.postimg.cc/0NMgYFb4/image.png"></p>
+<p>Por algum motivo, RSSGuard limita o tamanho das imagens na hora da leitura, mas é bem fácil corrigir isso, basta ir nas <code>ferramentas</code> &gt; <code>configurações</code> &gt; <code>feeds &amp; artigos</code> &gt; <code>artigos</code> e mude o valor no 3 ponto para 0 (zero).</p>
+<p><img src="https://files.catbox.moe/htbx78.png"></p>
+<p>Isso só precisa ser feito uma vez, não consigo entender essa escolha, mas ainda bem que pode ser facilmente revertida.</p>
+<p>Feito isso, adicionaremos nosso primeiro feed, clicando em <code>feed</code> &gt; <code>adicionar item</code> &gt; <code>adicionar novo feed</code>.<br>
+<img src="https://files.catbox.moe/lb1hny.png"></p>
+<p>Nesta nova janela, coloque a URL da página que você quer seguir, RSSGuard tentará achar o feed para você. Então, selecione um dos feeds e clique em <code>Importar feeds selecionados</code>
+<img src="https://files.catbox.moe/87ylxa.png"></p>
+<p>Agora só clicar no ícone de <code>Download</code> para que o RSSGuard busque os itens mais recentes nos feeds que você segue.</p>
+<p><img src="https://files.catbox.moe/twwcl8.png"></p>
+<p>Prontinho, agora você tem seu feed para ler, sem propaganda, sem algoritmo e principalmente sem distrações!
+<img src="https://files.catbox.moe/ngaenn.png" title="Gatinhos!"></p>
+<p>Pronto! Simples (nem tanto) assim. Mas saber seguir um feed é só uma parte da história, a outra é qual feed seguir ou mesmo como encontrar feeds, para isso recomendo o <a href="https://rssfeedasap.com/">RSS Feed ASAP</a>, nem sempre você terá o RSSGuard aberto para buscar feeds para você.</p>
+<p>E para encerrar deixarei algumas recomendações de feed e aplicativos leitores de RSS.</p>
+<h2 id="recomendações">Recomendações:</h2>
+<h3 id="feeds">Feeds</h3>
+<h4 id="blogs">Blogs:</h4>
+<ul>
+<li><a href="https://www.filfre.net/" title="The Digital Antiquarian">The Digital Antiquarian</a> (<a href="https://www.filfre.net/feed/">Feed</a>)</li>
+<li><a href="http://cdrom.ca/">CD-ROM Journal</a> (<a href="http://cdrom.ca/feed.xml">Feed</a>)</li>
+<li><a href="https://blog.sakugabooru.com/">Blog SakugaBooru</a>(<a href="https://blog.sakugabooru.com/feed/">Feed</a>)</li>
+</ul>
+<h4 id="revistas">Revistas:</h4>
+<ul>
+<li><a href="https://piaui.folha.uol.com.br/">Revista Piauí</a> (<a href="https://piaui.folha.uol.com.br/feed/">Feed</a>)</li>
+<li><a href="https://aeon.co/">Aeon</a> (<a href="https://aeon.co/feed">Feed</a>)</li>
+<li><a href="https://revistacult.uol.com.br/home/">Revista Cult</a> (<a href="https://aeon.co/feed">Feed</a>)</li>
+<li><a href="https://epochemagazine.org/">Epoché Magazine</a> (<a href="https://epochemagazine.org/feed/">Feed</a>)</li>
+</ul>
+<h4 id="canais-do-youtube">Canais do YouTube:</h4>
+<p>Colar a URL do canal no <a href="https://rssfeedasap.com/">RSS Feed ASAP</a> é a forma mais fácil de encontrar o feed, normalmente você teria que conseguir o ID do canal na URL e colocar <code>videos.xml</code>.</p>
+<h4 id="github">GitHub</h4>
+<p>O GitHub disponibiliza alguns feeds para repositórios, entre eles <code>commits</code>, <code>releases</code> e <code>issues</code>. No repositório do <a href="https://github.com/PrismLauncher/PrismLauncher">PrismLauncher</a>, coloque <code>/commit.atom</code> (ou releases, etc.) no final da URL: <code>https://github.com/PrismLauncher/PrismLauncher/releases.atom</code>.</p>
+<h4 id="bluesky">Bluesky</h4>
+<p>Bluesky recentemente habilitou feeds RSS para os perfis na rede social, basta colocar <code>/rss</code> ao final da URL do perfil: <code>https://bsky.app/profile/riiku.fun/rss</code></p>
+<h3 id="aplicativos">Aplicativos</h3>
+<h4 id="web">Web</h4>
+<ul>
+<li>Miniflux</li>
+<li>Inoreader</li>
+<li>Feedly</li>
+</ul>
+<h4 id="windows">Windows</h4>
+<ul>
+<li>RSSGuard</li>
+<li>FluentReader</li>
+</ul>
+<h4 id="linux">Linux</h4>
+<ul>
+<li>RSSGuard</li>
+<li>Newsboat (terminal)</li>
+<li>Newsflash</li>
+</ul>
+<h4 id="android">Android</h4>
+<ul>
+<li>ReadYou</li>
+<li>FeedMe</li>
+</ul>
+<h4 id="ios">iOS</h4>
+<ul>
+<li>NetNewsWire</li>
+</ul>
+]]></content:encoded>
     </item>
     <item>
       <title>Bem Vindos</title>
       <link>http://localhost:1313/posts/bem-vindos/</link>
-      <pubDate>Sat, 28 Sep 2024 15:59:21 -0300</pubDate>
+      <pubDate>Sat, 28 Sep 2024 15:59:21 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
       <guid>http://localhost:1313/posts/bem-vindos/</guid>
       <description>Olá! Sou Riiku e este é o meu cantinho na internet. Aqui, vou compartilhar minhas paixões, descobertas e tudo o que aprendo por aí. Acredito que o conhecimento só ganha vida quando é dividido. Afinal, conhecimento pra uma pessoa só não é conhecimento de verdade, né?&#xA;A ideia de criar um blog surgiu da vontade de conectar com pessoas que, assim como eu, buscam conhecimento e novas perspectivas.</description>
+      <content:encoded><![CDATA[<p>Olá! Sou Riiku e este é o meu cantinho na internet. Aqui, vou compartilhar minhas paixões, descobertas e tudo o que aprendo por aí. Acredito que o conhecimento só ganha vida quando é dividido. Afinal, conhecimento pra uma pessoa só não é conhecimento de verdade, né?</p>
+<p>A ideia de criar um blog surgiu da vontade de conectar com pessoas que, assim como eu, buscam conhecimento e novas perspectivas.</p>
+<p><img src="https://vetplus.vet.br/wp-content/uploads/2019/12/ijjpojopkop.png#small"></p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
