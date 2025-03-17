@@ -1,6 +1,6 @@
 baseURL = 'https://riiku.fun/'
 defaultContentLanguage = "pt"
-title = "(＃￣□￣)o━━━━☆ ⁂"
+title = "(＃￣□￣)o━━━☆ ⁂"
 theme = "hugo-bearcub"
 enableRobotsTXT = true
 timezone = "America/Fortaleza"
