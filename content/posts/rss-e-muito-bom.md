@@ -9,7 +9,7 @@ Essa postagem me fez pensar nas várias possibilidades que RSS tem a oferecer. P
 
 ## YouTube
 
-PPor incrível que pareça, poucos sabem que é possível seguir canais do YouTube usando RSS. Desde que a Google matou a possibilidade de seguir canais e receber atualizações de forma cronológica, seguir canais via RSS se tornou uma opção ainda mais relevante.
+Por incrível que pareça, poucos sabem que é possível seguir canais do YouTube usando RSS. Desde que a Google matou a possibilidade de seguir canais e receber atualizações de forma cronológica, seguir canais via RSS se tornou uma opção ainda mais relevante.
 
 Usando RSS, você pode seguir qualquer canal ou playlist sem se preocupar com algoritmo ditando o que você deve assistir. Basta colar a URL do canal em um leitor de RSS que ele deverá conseguir extrair o feed da página.
 
