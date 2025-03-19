@@ -32,6 +32,9 @@ themeStyle = "herman"
     name = "Riiku"
     email = "ricardoars@tuta.io"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 [[menu.main]]
 name = "inicio"
@@ -44,6 +47,16 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
+name = "blog"
+url = "/tags/blog"
+weight = 3
+
+[[menu.main]]
+name = "tutoriais"
+url = "/tags/tutorial"
+weight = 4
+
+[[menu.main]]
 name = "sobre"
 url = "/about"
-weight = 3
+weight = 5

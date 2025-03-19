@@ -2,6 +2,7 @@
 title = 'Self-Hosting'
 date = 2025-02-15T19:59:01-03:00
 draft = false
+tags = ['blog']
 +++
 
 Em 2025, decidi mudar um pouco as coisas. Pra começar, finalmente entendi que não preciso começar sempre pelo método mais completo (que acaba sendo mais difícil), não tem nada de errado em dar pequenos passos pra depois correr.

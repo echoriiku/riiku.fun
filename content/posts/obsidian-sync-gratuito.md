@@ -2,6 +2,7 @@
 title = 'Sincronizando Obsidian com Cloudflare R2'
 date = 2024-10-14T10:29:46-03:00
 draft = false
+tags = ['tutorial']
 +++
 --- 
 ## Requisitos:
