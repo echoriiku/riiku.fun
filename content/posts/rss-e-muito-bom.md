@@ -15,13 +15,13 @@ Usando RSS, você pode seguir qualquer canal ou playlist sem se preocupar com al
 
 Para isso, vamos utilizar uma ferramenta para descobrir feeds RSS nos sites que iremos visitar. Existem várias, mas a minha preferida é o [Get RSS Feed](https://getrssfeed.com/), já testei várias e essa foi a melhor até hoje.
 
-![](https://i.postimg.cc/MpQLYtFD/coisas-legais-que-voc-pode-fazer-com-rss-1742075676391.webp)
+![](https://i.ibb.co/Qjqn9SLD/coisas-legais-que-voc-pode-fazer-com-rss-1742075676391.webp)
 
 Usando o RSS Feed ASAP, basta colar a URL do canal do YouTube (ou a URL da playlist) que ele irá extrair a URL do Feed RSS pra você seguir no seu leitor RSS de preferência.
 
 Um dos meus canais preferidos é o PPF, ele faz covers de músicas de video-games, só que infelizmente ele demora muito entre uma postagem e outra, por isso, eu sempre perdia quando um vídeo novo era postado.
 
-![](https://i.postimg.cc/NfVVTZpF/coisas-legais-que-voc-pode-fazer-com-rss-1742076166398.webp)
+![](https://i.ibb.co/mrkLtvgN/coisas-legais-que-voc-pode-fazer-com-rss-1742076166398.webp)
 
 Com o [Get RSS Feed](https://getrssfeed.com/), eu consigo essa URL: `https://www.youtube.com/feeds/videos.xml?channel_id=UCohllq0Pk5lQuuNANabHKcg`, que, apesar de ficar escondida, é oficialmente disponibilizada pelo YouTube. Agora você nunca mais vai perder uma postagem do seu canal preferido.
 
@@ -31,7 +31,7 @@ Ao contrário da rede social do megalomaníaco bilionário, Bluesky (e o Mastodo
 
 Diferente do YouTube, é super fácil descobrir a URL do Feed de um perfil, basta copiar a URL do perfil e adicionar `/rss` no final da URL!
 
-![](https://i.postimg.cc/SNj3nmLH/coisas-legais-que-voc-pode-fazer-com-rss-1742077389834.webp)
+![](https://i.ibb.co/Y7G01tj9/coisas-legais-que-voc-pode-fazer-com-rss-1742077389834.webp)
 
 Pronto, agora você nunca mais vai perder a postagem daquele perfil que você adora!
 
@@ -41,7 +41,7 @@ Que tal ficar sempre atualizado com as novidades dos seus jogos preferidos? Sabe
 
 O Steam infelizmente não deixa tão claro que é possível fazer isso, mas depois que você descobre, é bem fácil de usar.
 
-![](https://i.postimg.cc/mZmKZP9Q/coisas-legais-que-voc-pode-fazer-com-rss-1742080357887.webp)
+![](https://i.ibb.co/5WZPkdfc/coisas-legais-que-voc-pode-fazer-com-rss-1742080357887.webp)
 
 Primeiro precisamos do `APP ID` do jogo que você quer seguir. Ele é encontrado na URL da página da loja do jogo no Steam. Por exemplo, essa é a URL da página do jogo Hollow Knight: <https://store.steampowered.com/app/367520/Hollow_Knight/>. O `APP ID` de Hollow Knight é 367520. Com esse número guardado, vamos adicioná-lo à URL de Feeds que o Steam disponibiliza: `https://store.steampowered.com/feeds/news/app/[APPID DO JOGO]`. Basta colocar o `APP ID` do jogo ao final da URL que você vai ter acesso ao feed de atualizações diretamente no seu leitor RSS.
 
