@@ -4,6 +4,8 @@ date = 2024-10-14T10:29:46-03:00
 draft = false
 tags = ['tutorial']
 +++
+# Sincronizando Obsidian com Cloudflare R2
+
 --- 
 ## Requisitos:
 - Plugin [RemotelySave](https://obsidian.md/plugins?id=remotely-save)

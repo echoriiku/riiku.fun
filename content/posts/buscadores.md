@@ -7,6 +7,7 @@ tags = [
   "blog"
 ]
 +++
+# A Busca por Autenticidade: Explorando a Web Independente
 
 Essa postagem do blog, talvez seja uma forma atualizada, tanto sobre a pessoa que escreve quanto sobre a situação atual da internet.
 

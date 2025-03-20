@@ -4,6 +4,7 @@ date = 2024-10-04T17:21:53-03:00
 draft = false
 tags = ['tutorial']
 +++
+# Usando RSS em 202X
 
 Imagina ter controle total sobre o que você lê e informações que recebe online. Essa é a ideia do RSS. Bom não necessariamente isso, mas gosto de pensar que é. 
 

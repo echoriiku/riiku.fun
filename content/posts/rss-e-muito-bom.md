@@ -4,6 +4,8 @@ date = 2025-03-16T00:07:55-03:00
 draft = false
 tags = ['tutorial']
 +++
+# RSS é incrível, você só não sabe disso ainda
+
 Outro dia, um post meu no Bluesky ganhou bastante atenção, felizmente por um bom motivo. O post em questão falava sobre RSS, feed readers e em como eles deveriam ressurgir.
 
 Essa postagem me fez pensar nas várias possibilidades que RSS tem a oferecer. Por isso, vou aproveitar e mostrar algumas das várias formas de usar RSS e quem sabe isso não desperta um novo interesse em você?

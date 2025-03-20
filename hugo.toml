@@ -1,7 +1,8 @@
 baseURL = 'https://riiku.fun/'
-defaultContentLanguage = "pt"
 title = "(＃￣□￣)o━━☆ ⁂"
-theme = "hugo-bearcub"
+theme = "hugo-bearblog"
+languageCode = "pt"
+defaultContentLanguage = "pt"
 enableRobotsTXT = true
 timezone = "America/Fortaleza"
 copyright = "Por Riiku com ♡"
@@ -12,22 +13,10 @@ copyright = "Por Riiku com ♡"
       madeWith = "Feito usando [Hugo](https://gohugo.io/) e [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
 
-[markup]
-[markup.highlight]
-lineNos = true
-lineNumbersInTable = false
-noClasses = false
-
 [params]
 favicon = "/images/favicon.ico"
 dateFormat = "02/01/2006"
-themeStyle = "herman"
-  [params.social]
-    bluesky = "riiku.fun"
-    lastfm = "riicu"
-    mastodon = "riiku@tech.lgbt"
-    letterboxd = "echoriiku"
-    github = "echoriiku"
+description = "Um dia eu ainda vou aprender a escrever, até lá, vou seguir com esse blog"
   [params.author]
     name = "Riiku"
     email = "ricardoars@tuta.io"
