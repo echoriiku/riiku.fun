@@ -4,9 +4,9 @@
   Cache-Control: max-age=31536000, public
   X-Frame-Options: DENY
   Referrer-Policy: no-referrer
-  Feature-Policy: microphone 'none'; payment 'none'; geolocation 'none'; midi 'none'; sync-xhr 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'
+  Permissions-Policy: microphone=(), payment=(), geolocation=(), midi=(), sync-xhr=(), camera=(), magnetometer=(), gyroscope=()
   Content-Security-Policy: default-src 'self'; 
-                           script-src 'self' https://static.cloudflareinsights.com; 
+                           script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; 
                            style-src 'self' 'unsafe-inline'; 
                            style-src-elem 'self' 'unsafe-inline';
                            style-src-attr 'self' 'unsafe-inline';
