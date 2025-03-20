@@ -1,11 +1,18 @@
 /*
   X-Content-Type-Options: nosniff
-  Strict-Transport-Security: "max-age=31536000; includeSubDomains; preload" env=HTTPS
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   Cache-Control: max-age=31536000, public
   X-Frame-Options: DENY
   Referrer-Policy: no-referrer
   Feature-Policy: microphone 'none'; payment 'none'; geolocation 'none'; midi 'none'; sync-xhr 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'
-  Content-Security-Policy: default-src 'none'; manifest-src 'self'; font-src 'self'; img-src 'self'; 
-                           style-src 'self' 'unsafe-inline'; form-action 'none'; frame-ancestors 'none'; base-uri 'none'
+  Content-Security-Policy: default-src 'self'; 
+                           script-src 'self' https://static.cloudflareinsights.com; 
+                           style-src 'self' 'unsafe-inline'; 
+                           style-src-elem 'self' 'unsafe-inline';
+                           style-src-attr 'self' 'unsafe-inline';
+                           font-src 'self'; 
+                           img-src 'self' data:; 
+                           form-action 'none'; 
+                           frame-ancestors 'none'; 
+                           base-uri 'none'
   X-XSS-Protection: 1; mode=block
-
