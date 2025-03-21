@@ -17,13 +17,18 @@
   <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
   {{ end }}
 </p>
-{{ if not .Params.hideReply }}
-{{ with .Site.Params.author.email }}
-  <p>
-    <a href='mailto:{{ . }}?subject=Re: "{{ default $.Site.Title $.Page.Title }}"'>
-      ↪ Responda a este post por email 
-    </a>
-  </p>
-{{ end }}
-{{ end }}
+
+<!-- Add reply options in Portuguese -->
+<p>
+  Responda via: 
+  {{ with .Site.Params.author.email }}
+  <a href='mailto:{{ . }}?subject=Re: "{{ default $.Site.Title $.Page.Title }}"'>Email</a>
+  {{ end }}
+  {{ with .Site.Params.author.mastodon }} · 
+  <a href="{{ . }}" rel="me">Mastodon</a>
+  {{ end }}
+  {{ with .Site.Params.author.bluesky }} · 
+  <a href="{{ . }}">Bluesky</a>
+  {{ end }}
+</p>
 {{ end }}

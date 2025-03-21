@@ -20,6 +20,8 @@ description = "Um dia eu ainda vou aprender a escrever, até lá, vou seguir com
   [params.author]
     name = "Riiku"
     email = "ricardoars@tuta.io"
+    mastodon = "https://tech.lgbt/@riiku"
+    bluesky = "https://bsky.app/profile/riiku.fun"
 
 [taxonomies]
   tag = "tags"
