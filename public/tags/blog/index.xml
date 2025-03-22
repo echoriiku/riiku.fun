@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on (＃￣□￣)o━━☆ ⁂</title>
+    <link>http://localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on (＃￣□￣)o━━☆ ⁂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <managingEditor>ricardoars@tuta.io (Riiku)</managingEditor>
+    <webMaster>ricardoars@tuta.io (Riiku)</webMaster>
+    <copyright>Por Riiku com ♡</copyright>
+    <lastBuildDate>Thu, 20 Mar 2025 11:29:57 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Busca por Autenticidade: Explorando a Web Independente</title>
+      <link>http://localhost:1313/posts/buscadores/</link>
+      <pubDate>Thu, 20 Mar 2025 11:29:57 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
+      <guid>http://localhost:1313/posts/buscadores/</guid>
+      <description>A Busca por Autenticidade: Explorando a Web Independente Essa postagem do blog, talvez seja uma forma atualizada, tanto sobre a pessoa que escreve quanto sobre a situação atual da internet.
+Anos atrás eu escrevi no Paper.wf, uma instancia aberta do WriteFreely, que é uma plataforma open-source de blogs, muito legal por sinal, mas que infelizmente não supria as minhas necessidades. Nessa postagem eu falava sobre vários buscadores, do Google, passando pelo DuckDuckGo ao SearXNG, o último por sinal vai ser parte dessa postagem também!</description>
+      <content:encoded><![CDATA[<h1 id="a-busca-por-autenticidade-explorando-a-web-independente">A Busca por Autenticidade: Explorando a Web Independente</h1>
+<p>Essa postagem do blog, talvez seja uma forma atualizada, tanto sobre a pessoa que escreve quanto sobre a situação atual da internet.</p>
+<p>Anos atrás eu escrevi no Paper.wf, uma instancia aberta do WriteFreely, que é uma plataforma open-source de blogs, muito legal por sinal, mas que infelizmente não supria as minhas necessidades. Nessa postagem eu falava sobre vários buscadores, do Google, passando pelo DuckDuckGo ao SearXNG, o último por sinal vai ser parte dessa postagem também!</p>
+<p>Dessa vez, não vou mencionar os buscadores populares como Google e DuckDuckGo. A ideia desta postagem é apresentar alguns buscadores alternativos, jeitos diferentes de pesquisar, pois, no cenário atual da internet, achar informações corretas, sem propagandas (tanto no site quanto na postagem em si!), está cada vez mais difícil. Só queremos encontrar resultados feitos por pessoas de verdade, porque é tão difícil conseguir isso?</p>
+<h1 id="searxng">SearXNG</h1>
+<p>Não sei se o SearXNG é um buscador de fato, pois ele não tem um crawler, o robô que escaneia e cataloga os sites que aparecem nos resultados das buscas. O SearXNG usa outros provedores como Google, DuckDuckGo, Bing, etc., para fazer as buscas, todas de forma privada e segura, e, por fim, mostra o resultado de todas essas buscas para você. Você não precisa dar seus dados, histórico de busca e localização para grandes empresas, pois todas as buscas que o SearXNG faz são privadas.</p>
+<p>Como SearXNG é um projeto open-source e feito pela comunidade para a comunidade, ele não possui um site central, mas existe um site que lista todas as instâncias públicas, todas você pode acessar livremente:</p>
+<p><a href="https://searx.space/"><img alt="lista de instâncias do searxng" src="https://images.riiku.fun/Screenshot%202025-03-20%20at%2009-39-42%20SearXNG%20instances.webp"></a></p>
+<p>Como existem <strong>várias</strong> instâncias, minha recomendação é a <a href="https://priv.au/">Priv.au</a>, pois ela é constantemente atualizada para a versão mais recente do SearXNG e mantém uma interface limpa, mas com várias opções de customização nas preferências.</p>
+<p><a href="https://priv.au/"><img alt="pagina de busca do searxng" src="https://images.riiku.fun/Screenshot%202025-03-20%20at%2009-39-55%20SearXNG%20%40%20searx.tiekoetter.com.webp"></a></p>
+<p>A interface de busca é limpa, sem anúncios e bem familiar para qualquer um que faz várias buscas diariamente.</p>
+<p><a href="https://priv.au/"><img alt="busca hatsune miku do priv.au(searxng)" src="https://images.riiku.fun/Screenshot%202025-03-20%20at%2009-45-58%20hatsune%20miku%20-%20PrivAU.webp"></a></p>
+<p>Uma dica legal é que você pode adicionar o <a href="https://priv.au/">Priv.au</a> como buscador padrão na barra de endereços do seu navegador de preferência, basta acessar a página inicial do buscador e clicar na barra de endereços</p>
+<p><img alt="adicionando searxng como mecanismo de busca" src="https://images.riiku.fun/Captura%20de%20tela%202025-03-20%20110239.png"></p>
+<p>Após clicar nesse botão, vá nas configurações do seu navegador para selecionar o SearXNG/Priv.au como mecanismo de busca padrão. Prontinho, agora basta você digitar o que você quer buscar na barra de endereços e os resultados vão começar a aparecer, tudo de forma segura e privada!</p>
+<h1 id="marginalia">Marginalia</h1>
+<p>O <a href="https://marginalia-search.com/">Marginalia Search</a> foi uma das melhores descobertas que fiz nos últimos anos. Um buscador independente, especializado em sites textuais. Indexando a web clássica, os sites esquisitos, diferentes, pessoais, sites que contam histórias únicas.</p>
+<p><a href="https://marginalia-search.com/"><img alt="marginalia homepage" src="https://images.riiku.fun/marginalia-homepage-1.webp"></a></p>
+<p>Tudo pra trazer resultados que você genuinamente gostaria de ler, não por culpa de um algoritmo, mas porque foi feito por gente como você eu, que é apaixonado por um hobby e resolveu escrever sobre isso.</p>
+<p><a href="https://marginalia-search.com/search?query=hatsune+miku&profile=modern&newfilter=true"><img alt="pagina de busca do marginalia com a pesquisa hatsune miku" src="https://images.riiku.fun/marginalia-busca-1.webp"></a></p>
+<h1 id="mastodon">Mastodon</h1>
+<p>Pouco sabem, mas a busca do Mastodon é bem completa. Os usuários tendem a colocar hashtag nos posts, o que facilita bastante na hora de encontrar resultados específicos.</p>
+<p><a href="https://mastodon.social"><img alt="tela de busca do mastodon" src="https://images.riiku.fun/mastodon-busca-1.webp"></a></p>
+<p>Se você é usuário da rede social, nos mais variados aplicativos, você pode fazer timelines específicas para hashtags. No Moshidon, app para Mastodon no Android, tenho 2 timelines para algumas hashtags: &ldquo;note-taking&rdquo; e &ldquo;RSS&rdquo;. A note-taking é uma timeline que mostra todos os posts que contem as hashtags <code>#notetaking, #obsidian, #evernote, #pkm, #notesnook</code>. A RSS contem posts com as hashtags <code>#rss, #miniflux, #freshrss</code>. Com isso, tenho duas timelines de assuntos que me interessam bastante e sempre topo com postagens e blogs interessantíssimos (que na grande maioria das vezes termina no meu leitor de RSS).</p>
+<p>Dá uma chance, cria uma conta no Mastodon, na <a href="https://mastodon.social/">instância principal</a> mesmo, e da uma conferida, tenho certeza que se você for alguém curioso como eu, irá achar bastante conteúdo legal e sem a pressão de postar alguma coisa.</p>
+<h1 id="feedle">Feedle</h1>
+<p><a href="https://feedle.world/">Feedle</a> é um buscador que é especializado em small/indie web, que são aqueles site feitos por pessoas normais, nada de grandes empresas de tecnologia ou jornalismo por trás.</p>
+<p><a href="https://feedle.world/"><img alt="pagina inicial do feedle" src="https://images.riiku.fun/feedle-homepage.webp"></a></p>
+<p>Nesse ponto, ele é bem parecido com o Marginalia, que não possui propagandas, rastreadores, e não tenta vender seus dados para as gigantes da tecnologia. O diferencial do <a href="https://feedle.world/">Feedle</a> é que todos os site que ele encontra tem feeds RSS e a própria busca em tem um feed RSS.</p>
+<p><a href="https://feedle.world/"><img alt="pagina de busca do feelde" src="https://images.riiku.fun/feedle-search.webp"></a></p>
+<p>Com essa funcionalidade, você pode seguir buscas/tópicos. Por exemplo eu sigo algumas buscas como <code>miniflux</code> e <code>obsidian</code>. Dessa forma eu consigo visualizar conteúdos criados por humanos, nada de Inteligência Artificial, são pessoas apaixonadas pelo que fazem, escrevendo em seus sites e blogs. Conteúdo de qualidade!</p>
+<p>Bom, espero que com essas recomendações você ache conteúdos legais nessa internet que perdemos um pouco da esperança. Dominada por algoritmos e conteúdos de baixo esforço, em sua grande maioria feitos por inteligência artificial, encontrar conteúdos genuínos ficou cada vez mais difícil.</p>
+<p>Não esquece de usar os botões abaixo pra mandar seu comentários, opiniões, vamos conversar sobre o tópico! Quem sabe você não pesquisa de uma forma totalmente diferente!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Self-Hosting</title>
+      <link>http://localhost:1313/posts/self-hosting-2025/</link>
+      <pubDate>Sat, 15 Feb 2025 19:59:01 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
+      <guid>http://localhost:1313/posts/self-hosting-2025/</guid>
+      <description>Self-Hosting Em 2025, decidi mudar um pouco as coisas. Pra começar, finalmente entendi que não preciso começar sempre pelo método mais completo (que acaba sendo mais difícil), não tem nada de errado em dar pequenos passos pra depois correr.
+Ano passado, em 2024, comecei a fazer &amp;amp;lsquo;self-hosting&amp;amp;rsquo; de alguns aplicativos, self-hosting entre aspas pois pra alguns só é self-hosting de verdade quando você faz tudo em casa, com seu próprio hardware.</description>
+      <content:encoded><![CDATA[<h1 id="self-hosting">Self-Hosting</h1>
+<p>Em 2025, decidi mudar um pouco as coisas. Pra começar, finalmente entendi que não preciso começar sempre pelo método mais completo (que acaba sendo mais difícil), não tem nada de errado em dar pequenos passos pra depois correr.</p>
+<p>Ano passado, em 2024, comecei a fazer &lsquo;self-hosting&rsquo; de alguns aplicativos, self-hosting entre aspas pois pra alguns só é self-hosting de verdade quando você faz tudo em casa, com seu próprio hardware. Algo que, infelizmente, não é o meu caso, considerando os desafios de manter um computador ligado 24 horas por dia, 7 dias por semana no Brasil. Por isso, optei por uma VPS, um servidor Linux remoto.</p>
+<p>Como eu sabia pouco sobre self-hosting, comecei usando um aplicativo chamado Caprover, que basicamente gerenciava tudo para mim, desde a instalação de aplicativos com um clique até certificados para que meu site pudesse usar HTTPS. Isso tudo era uma mão na roda, uma pá de aplicativos pra só clicar e rodar. Só que, como qualquer programa, algumas coisas nem sempre funcionam como esperado. Nessas horas, eu precisava colocar a mão na massa, abrir o terminal da VPS e tentar descobrir como fazer o que eu precisava, seja para resolver um problema ou para realizar algo que eu queria com um aplicativo (como quando precisei fazer backup de um banco de dados. Eu nunca tinha feito isso antes, mas aprendi a acessar um container Docker em execução, fazer o dump do banco de dados e copiar para fora do container!).</p>
+<h2 id="novo-ano-nova-vps">Novo ano, nova VPS</h2>
+<p>Com a virada do ano, os preços da VPS que estava usando aumentaram, o que me fez buscar por outras alternativas. Aproveitei a oportunidade para começar tudo do zero, fazendo o máximo possível manualmente. Para isso, instalei o Debian (ao invés do Ubuntu da antiga VPS), fiz a configuração básica do Docker, instalei o <a href="https://caddyserver.com/">Caddy</a> para usar como proxy reverso e criei uma série de pastas para cada aplicativo, cada uma com seu arquivo docker-compose.yaml dentro, deixando tudo organizado.</p>
+<p>Atualmente, tenho 23 containers em execução e 16 serviços. Os meus mais utilizados são:</p>
+<ul>
+<li>
+<p><a href="https://miniflux.app/">Miniflux</a>, um leitor de RSS minimalista que é simplesmente delicioso de usar.</p>
+</li>
+<li>
+<p><a href="https://docs.rsshub.app/">RSSHub</a>, um serviço que basicamente cria feeds de RSS de <del>quase</del> qualquer coisa, complementa o Miniflux.</p>
+</li>
+<li>
+<p><a href="https://readeck.org/en/">Readeck</a>, um read-it-later, onde posso salvar os artigos/links mais legais que chegam pelo Miniflux pra ler depois (os poucos que não leio diretamente no Miniflux)</p>
+</li>
+<li>
+<p><a href="https://docs.searxng.org/">SearXNG</a>, literalmente um mecanismo de busca, só que ‘meu’!</p>
+</li>
+</ul>
+<p>É muito bom ter total controle sobre um serviço que você pode acessar de qualquer lugar, e que não é controlado por uma grande empresa de tecnologia. Todos esses serviços/aplicativos que tenho na minha VPS são de código aberto, gratuitos e contam com a colaboração da comunidade para o desenvolvimento.</p>
+<p>Apesar de tudo isso, acho que self-hosting é algo que todo que gosta um pouco de computadores deveria tentar, na grande maioria das vezes você nem precisa de um servidor remoto, tem inúmeros apps que funcionam localmente usando docker, fora que é uma excelente oportunidade pra aprender mais sobre como esses serviços funcionam.</p>
+<p>Coisas que aprendi nessa pequena jornada:</p>
+<ul>
+<li>
+<p>Docker</p>
+<ul>
+<li>
+<p>Containers</p>
+</li>
+<li>
+<p>Volumes</p>
+</li>
+<li>
+<p>Networks</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Reverse Proxy</p>
+</li>
+<li>
+<p>SSH e SSH-Keys</p>
+</li>
+</ul>
+<p>Antes não conseguiria sem a ajuda do Caprover, hoje já consigo usando Caddy, no futuro, quero aprender a usar Traefik. Veremos o que 2025 tem pela frente.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
