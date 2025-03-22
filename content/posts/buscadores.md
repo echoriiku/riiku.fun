@@ -71,4 +71,4 @@ Com essa funcionalidade, você pode seguir buscas/tópicos. Por exemplo eu sigo 
 
 Bom, espero que com essas recomendações você ache conteúdos legais nessa internet que perdemos um pouco da esperança. Dominada por algoritmos e conteúdos de baixo esforço, em sua grande maioria feitos por inteligência artificial, encontrar conteúdos genuínos ficou cada vez mais difícil.
 
-Não esquece de usar o botão a baixo pra mandar seu comentários, opiniões, vamos conversar sobre o tópico! Quem sabe você não pesquisa de uma forma totalmente diferente!
+Não esquece de usar os botões abaixo pra mandar seu comentários, opiniões, vamos conversar sobre o tópico! Quem sabe você não pesquisa de uma forma totalmente diferente!
