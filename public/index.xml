@@ -1,26 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>(＃￣□￣)o━━━━☆ ⁂</title>
+    <title>(＃￣□￣)o━━☆ ⁂</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on (＃￣□￣)o━━━━☆ ⁂</description>
+    <description>Recent content on (＃￣□￣)o━━☆ ⁂</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <managingEditor>ricardoars@tuta.io (Riiku)</managingEditor>
     <webMaster>ricardoars@tuta.io (Riiku)</webMaster>
-    <copyright>Por Riiku</copyright>
-    <lastBuildDate>Sun, 16 Mar 2025 22:53:22 -0300</lastBuildDate>
+    <copyright>Por Riiku com ♡</copyright>
+    <lastBuildDate>Thu, 20 Mar 2025 11:29:57 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Programas</title>
-      <link>http://localhost:1313/programas/</link>
-      <pubDate>Sun, 16 Mar 2025 22:53:22 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
-      <guid>http://localhost:1313/programas/</guid>
-      <description> No momento o Notebook da minha esposa pois meu computador está com problema Moto G30, é velho, lento, mas consigo fazer ligação e usar Whatsapp (mesmo que não goste) </description>
-      <content:encoded><![CDATA[<ul>
-<li>No momento o Notebook da minha esposa pois meu computador está com problema</li>
-<li>Moto G30, é velho, lento, mas consigo fazer ligação e usar Whatsapp (mesmo que não goste)</li>
-</ul>
+      <title>A Busca por Autenticidade: Explorando a Web Independente</title>
+      <link>http://localhost:1313/posts/buscadores/</link>
+      <pubDate>Thu, 20 Mar 2025 11:29:57 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
+      <guid>http://localhost:1313/posts/buscadores/</guid>
+      <description>A Busca por Autenticidade: Explorando a Web Independente Essa postagem do blog, talvez seja uma forma atualizada, tanto sobre a pessoa que escreve quanto sobre a situação atual da internet.
+Anos atrás eu escrevi no Paper.wf, uma instancia aberta do WriteFreely, que é uma plataforma open-source de blogs, muito legal por sinal, mas que infelizmente não supria as minhas necessidades. Nessa postagem eu falava sobre vários buscadores, do Google, passando pelo DuckDuckGo ao SearXNG, o último por sinal vai ser parte dessa postagem também!</description>
+      <content:encoded><![CDATA[<h1 id="a-busca-por-autenticidade-explorando-a-web-independente">A Busca por Autenticidade: Explorando a Web Independente</h1>
+<p>Essa postagem do blog, talvez seja uma forma atualizada, tanto sobre a pessoa que escreve quanto sobre a situação atual da internet.</p>
+<p>Anos atrás eu escrevi no Paper.wf, uma instancia aberta do WriteFreely, que é uma plataforma open-source de blogs, muito legal por sinal, mas que infelizmente não supria as minhas necessidades. Nessa postagem eu falava sobre vários buscadores, do Google, passando pelo DuckDuckGo ao SearXNG, o último por sinal vai ser parte dessa postagem também!</p>
+<p>Dessa vez, não vou mencionar os buscadores populares como Google e DuckDuckGo. A ideia desta postagem é apresentar alguns buscadores alternativos, jeitos diferentes de pesquisar, pois, no cenário atual da internet, achar informações corretas, sem propagandas (tanto no site quanto na postagem em si!), está cada vez mais difícil. Só queremos encontrar resultados feitos por pessoas de verdade, porque é tão difícil conseguir isso?</p>
+<h1 id="searxng">SearXNG</h1>
+<p>Não sei se o SearXNG é um buscador de fato, pois ele não tem um crawler, o robô que escaneia e cataloga os sites que aparecem nos resultados das buscas. O SearXNG usa outros provedores como Google, DuckDuckGo, Bing, etc., para fazer as buscas, todas de forma privada e segura, e, por fim, mostra o resultado de todas essas buscas para você. Você não precisa dar seus dados, histórico de busca e localização para grandes empresas, pois todas as buscas que o SearXNG faz são privadas.</p>
+<p>Como SearXNG é um projeto open-source e feito pela comunidade para a comunidade, ele não possui um site central, mas existe um site que lista todas as instâncias públicas, todas você pode acessar livremente:</p>
+<p><a href="https://searx.space/"><img alt="lista de instâncias do searxng" src="https://images.riiku.fun/Screenshot%202025-03-20%20at%2009-39-42%20SearXNG%20instances.webp"></a></p>
+<p>Como existem <strong>várias</strong> instâncias, minha recomendação é a <a href="https://priv.au/">Priv.au</a>, pois ela é constantemente atualizada para a versão mais recente do SearXNG e mantém uma interface limpa, mas com várias opções de customização nas preferências.</p>
+<p><a href="https://priv.au/"><img alt="pagina de busca do searxng" src="https://images.riiku.fun/Screenshot%202025-03-20%20at%2009-39-55%20SearXNG%20%40%20searx.tiekoetter.com.webp"></a></p>
+<p>A interface de busca é limpa, sem anúncios e bem familiar para qualquer um que faz várias buscas diariamente.</p>
+<p><a href="https://priv.au/"><img alt="busca hatsune miku do priv.au(searxng)" src="https://images.riiku.fun/Screenshot%202025-03-20%20at%2009-45-58%20hatsune%20miku%20-%20PrivAU.webp"></a></p>
+<p>Uma dica legal é que você pode adicionar o <a href="https://priv.au/">Priv.au</a> como buscador padrão na barra de endereços do seu navegador de preferência, basta acessar a página inicial do buscador e clicar na barra de endereços</p>
+<p><img alt="adicionando searxng como mecanismo de busca" src="https://images.riiku.fun/Captura%20de%20tela%202025-03-20%20110239.png"></p>
+<p>Após clicar nesse botão, vá nas configurações do seu navegador para selecionar o SearXNG/Priv.au como mecanismo de busca padrão. Prontinho, agora basta você digitar o que você quer buscar na barra de endereços e os resultados vão começar a aparecer, tudo de forma segura e privada!</p>
+<h1 id="marginalia">Marginalia</h1>
+<p>O <a href="https://marginalia-search.com/">Marginalia Search</a> foi uma das melhores descobertas que fiz nos últimos anos. Um buscador independente, especializado em sites textuais. Indexando a web clássica, os sites esquisitos, diferentes, pessoais, sites que contam histórias únicas.</p>
+<p><a href="https://marginalia-search.com/"><img alt="marginalia homepage" src="https://images.riiku.fun/marginalia-homepage-1.webp"></a></p>
+<p>Tudo pra trazer resultados que você genuinamente gostaria de ler, não por culpa de um algoritmo, mas porque foi feito por gente como você eu, que é apaixonado por um hobby e resolveu escrever sobre isso.</p>
+<p><a href="https://marginalia-search.com/search?query=hatsune+miku&profile=modern&newfilter=true"><img alt="pagina de busca do marginalia com a pesquisa hatsune miku" src="https://images.riiku.fun/marginalia-busca-1.webp"></a></p>
+<h1 id="mastodon">Mastodon</h1>
+<p>Pouco sabem, mas a busca do Mastodon é bem completa. Os usuários tendem a colocar hashtag nos posts, o que facilita bastante na hora de encontrar resultados específicos.</p>
+<p><a href="https://mastodon.social"><img alt="tela de busca do mastodon" src="https://images.riiku.fun/mastodon-busca-1.webp"></a></p>
+<p>Se você é usuário da rede social, nos mais variados aplicativos, você pode fazer timelines específicas para hashtags. No Moshidon, app para Mastodon no Android, tenho 2 timelines para algumas hashtags: &ldquo;note-taking&rdquo; e &ldquo;RSS&rdquo;. A note-taking é uma timeline que mostra todos os posts que contem as hashtags <code>#notetaking, #obsidian, #evernote, #pkm, #notesnook</code>. A RSS contem posts com as hashtags <code>#rss, #miniflux, #freshrss</code>. Com isso, tenho duas timelines de assuntos que me interessam bastante e sempre topo com postagens e blogs interessantíssimos (que na grande maioria das vezes termina no meu leitor de RSS).</p>
+<p>Dá uma chance, cria uma conta no Mastodon, na <a href="https://mastodon.social/">instância principal</a> mesmo, e da uma conferida, tenho certeza que se você for alguém curioso como eu, irá achar bastante conteúdo legal e sem a pressão de postar alguma coisa.</p>
+<h1 id="feedle">Feedle</h1>
+<p><a href="https://feedle.world/">Feedle</a> é um buscador que é especializado em small/indie web, que são aqueles site feitos por pessoas normais, nada de grandes empresas de tecnologia ou jornalismo por trás.</p>
+<p><a href="https://feedle.world/"><img alt="pagina inicial do feedle" src="https://images.riiku.fun/feedle-homepage.webp"></a></p>
+<p>Nesse ponto, ele é bem parecido com o Marginalia, que não possui propagandas, rastreadores, e não tenta vender seus dados para as gigantes da tecnologia. O diferencial do <a href="https://feedle.world/">Feedle</a> é que todos os site que ele encontra tem feeds RSS e a própria busca em tem um feed RSS.</p>
+<p><a href="https://feedle.world/"><img alt="pagina de busca do feelde" src="https://images.riiku.fun/feedle-search.webp"></a></p>
+<p>Com essa funcionalidade, você pode seguir buscas/tópicos. Por exemplo eu sigo algumas buscas como <code>miniflux</code> e <code>obsidian</code>. Dessa forma eu consigo visualizar conteúdos criados por humanos, nada de Inteligência Artificial, são pessoas apaixonadas pelo que fazem, escrevendo em seus sites e blogs. Conteúdo de qualidade!</p>
+<p>Bom, espero que com essas recomendações você ache conteúdos legais nessa internet que perdemos um pouco da esperança. Dominada por algoritmos e conteúdos de baixo esforço, em sua grande maioria feitos por inteligência artificial, encontrar conteúdos genuínos ficou cada vez mais difícil.</p>
+<p>Não esquece de usar os botões abaixo pra mandar seu comentários, opiniões, vamos conversar sobre o tópico! Quem sabe você não pesquisa de uma forma totalmente diferente!</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -28,27 +58,29 @@
       <link>http://localhost:1313/posts/rss-e-muito-bom/</link>
       <pubDate>Sun, 16 Mar 2025 00:07:55 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
       <guid>http://localhost:1313/posts/rss-e-muito-bom/</guid>
-      <description>Outro dia, um post meu no Bluesky ganhou bastante atenção, felizmente por um bom motivo. O post em questão falava sobre RSS, feed readers e em como eles deveriam ressurgir.&#xA;Essa postagem me fez pensar nas várias possibilidades que RSS tem a oferecer. Por isso, vou aproveitar e mostrar algumas das várias formas de usar RSS e quem sabe isso não desperta um novo interesse em você?&#xA;YouTube PPor incrível que pareça, poucos sabem que é possível seguir canais do YouTube usando RSS.</description>
-      <content:encoded><![CDATA[<p>Outro dia, um post meu no Bluesky ganhou bastante atenção, felizmente por um bom motivo. O post em questão falava sobre RSS, feed readers e em como eles deveriam ressurgir.</p>
+      <description>RSS é incrível, você só não sabe disso ainda Outro dia, um post meu no Bluesky ganhou bastante atenção, felizmente por um bom motivo. O post em questão falava sobre RSS, feed readers e em como eles deveriam ressurgir.
+Essa postagem me fez pensar nas várias possibilidades que RSS tem a oferecer. Por isso, vou aproveitar e mostrar algumas das várias formas de usar RSS e quem sabe isso não desperta um novo interesse em você?</description>
+      <content:encoded><![CDATA[<h1 id="rss-é-incrível-você-só-não-sabe-disso-ainda">RSS é incrível, você só não sabe disso ainda</h1>
+<p>Outro dia, um post meu no Bluesky ganhou bastante atenção, felizmente por um bom motivo. O post em questão falava sobre RSS, feed readers e em como eles deveriam ressurgir.</p>
 <p>Essa postagem me fez pensar nas várias possibilidades que RSS tem a oferecer. Por isso, vou aproveitar e mostrar algumas das várias formas de usar RSS e quem sabe isso não desperta um novo interesse em você?</p>
 <h2 id="youtube">YouTube</h2>
-<p>PPor incrível que pareça, poucos sabem que é possível seguir canais do YouTube usando RSS. Desde que a Google matou a possibilidade de seguir canais e receber atualizações de forma cronológica, seguir canais via RSS se tornou uma opção ainda mais relevante.</p>
+<p>Por incrível que pareça, poucos sabem que é possível seguir canais do YouTube usando RSS. Desde que a Google matou a possibilidade de seguir canais e receber atualizações de forma cronológica, seguir canais via RSS se tornou uma opção ainda mais relevante.</p>
 <p>Usando RSS, você pode seguir qualquer canal ou playlist sem se preocupar com algoritmo ditando o que você deve assistir. Basta colar a URL do canal em um leitor de RSS que ele deverá conseguir extrair o feed da página.</p>
 <p>Para isso, vamos utilizar uma ferramenta para descobrir feeds RSS nos sites que iremos visitar. Existem várias, mas a minha preferida é o <a href="https://getrssfeed.com/">Get RSS Feed</a>, já testei várias e essa foi a melhor até hoje.</p>
-<p><img src="https://i.postimg.cc/MpQLYtFD/coisas-legais-que-voc-pode-fazer-com-rss-1742075676391.webp"></p>
+<p><img src="https://i.ibb.co/Qjqn9SLD/coisas-legais-que-voc-pode-fazer-com-rss-1742075676391.webp"></p>
 <p>Usando o RSS Feed ASAP, basta colar a URL do canal do YouTube (ou a URL da playlist) que ele irá extrair a URL do Feed RSS pra você seguir no seu leitor RSS de preferência.</p>
 <p>Um dos meus canais preferidos é o PPF, ele faz covers de músicas de video-games, só que infelizmente ele demora muito entre uma postagem e outra, por isso, eu sempre perdia quando um vídeo novo era postado.</p>
-<p><img src="https://i.postimg.cc/NfVVTZpF/coisas-legais-que-voc-pode-fazer-com-rss-1742076166398.webp"></p>
+<p><img src="https://i.ibb.co/mrkLtvgN/coisas-legais-que-voc-pode-fazer-com-rss-1742076166398.webp"></p>
 <p>Com o <a href="https://getrssfeed.com/">Get RSS Feed</a>, eu consigo essa URL: <code>https://www.youtube.com/feeds/videos.xml?channel_id=UCohllq0Pk5lQuuNANabHKcg</code>, que, apesar de ficar escondida, é oficialmente disponibilizada pelo YouTube. Agora você nunca mais vai perder uma postagem do seu canal preferido.</p>
 <h2 id="bluesky--mastodon">Bluesky / Mastodon</h2>
 <p>Ao contrário da rede social do megalomaníaco bilionário, Bluesky (e o Mastodon, que por sinal implementou isso primeiro), disponibilizam feed RSS de todos os perfis públicos.</p>
 <p>Diferente do YouTube, é super fácil descobrir a URL do Feed de um perfil, basta copiar a URL do perfil e adicionar <code>/rss</code> no final da URL!</p>
-<p><img src="https://i.postimg.cc/SNj3nmLH/coisas-legais-que-voc-pode-fazer-com-rss-1742077389834.webp"></p>
+<p><img src="https://i.ibb.co/Y7G01tj9/coisas-legais-que-voc-pode-fazer-com-rss-1742077389834.webp"></p>
 <p>Pronto, agora você nunca mais vai perder a postagem daquele perfil que você adora!</p>
 <h2 id="steam">Steam</h2>
 <p>Que tal ficar sempre atualizado com as novidades dos seus jogos preferidos? Saber exatamente quando aquela DLC saiu ou quando aquele jogo que você adora mas não recebe atualizações há meses finalmente recebe conteúdos novos? Com RSS isso é possível!</p>
 <p>O Steam infelizmente não deixa tão claro que é possível fazer isso, mas depois que você descobre, é bem fácil de usar.</p>
-<p><img src="https://i.postimg.cc/mZmKZP9Q/coisas-legais-que-voc-pode-fazer-com-rss-1742080357887.webp"></p>
+<p><img src="https://i.ibb.co/5WZPkdfc/coisas-legais-que-voc-pode-fazer-com-rss-1742080357887.webp"></p>
 <p>Primeiro precisamos do <code>APP ID</code> do jogo que você quer seguir. Ele é encontrado na URL da página da loja do jogo no Steam. Por exemplo, essa é a URL da página do jogo Hollow Knight: <a href="https://store.steampowered.com/app/367520/Hollow_Knight/">https://store.steampowered.com/app/367520/Hollow_Knight/</a>. O <code>APP ID</code> de Hollow Knight é 367520. Com esse número guardado, vamos adicioná-lo à URL de Feeds que o Steam disponibiliza: <code>https://store.steampowered.com/feeds/news/app/[APPID DO JOGO]</code>. Basta colocar o <code>APP ID</code> do jogo ao final da URL que você vai ter acesso ao feed de atualizações diretamente no seu leitor RSS.</p>
 <h2 id="e-isso-é-só-o-começo">E isso é só o começo</h2>
 <p>Tem MUITO mais coisa que você pode seguir usando RSS, desde releases a commits no GitHub, sites de notícias (os bons sempre têm RSS), blogs, as possibilidades são enormes!</p>
@@ -182,8 +214,10 @@
       <link>http://localhost:1313/posts/self-hosting-2025/</link>
       <pubDate>Sat, 15 Feb 2025 19:59:01 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
       <guid>http://localhost:1313/posts/self-hosting-2025/</guid>
-      <description>Em 2025, decidi mudar um pouco as coisas. Pra começar, finalmente entendi que não preciso começar sempre pelo método mais completo (que acaba sendo mais difícil), não tem nada de errado em dar pequenos passos pra depois correr.&#xA;Ano passado, em 2024, comecei a fazer &amp;lsquo;self-hosting&amp;rsquo; de alguns aplicativos, self-hosting entre aspas pois pra alguns só é self-hosting de verdade quando você faz tudo em casa, com seu próprio hardware. Algo que, infelizmente, não é o meu caso, considerando os desafios de manter um computador ligado 24 horas por dia, 7 dias por semana no Brasil.</description>
-      <content:encoded><![CDATA[<p>Em 2025, decidi mudar um pouco as coisas. Pra começar, finalmente entendi que não preciso começar sempre pelo método mais completo (que acaba sendo mais difícil), não tem nada de errado em dar pequenos passos pra depois correr.</p>
+      <description>Self-Hosting Em 2025, decidi mudar um pouco as coisas. Pra começar, finalmente entendi que não preciso começar sempre pelo método mais completo (que acaba sendo mais difícil), não tem nada de errado em dar pequenos passos pra depois correr.
+Ano passado, em 2024, comecei a fazer &amp;amp;lsquo;self-hosting&amp;amp;rsquo; de alguns aplicativos, self-hosting entre aspas pois pra alguns só é self-hosting de verdade quando você faz tudo em casa, com seu próprio hardware.</description>
+      <content:encoded><![CDATA[<h1 id="self-hosting">Self-Hosting</h1>
+<p>Em 2025, decidi mudar um pouco as coisas. Pra começar, finalmente entendi que não preciso começar sempre pelo método mais completo (que acaba sendo mais difícil), não tem nada de errado em dar pequenos passos pra depois correr.</p>
 <p>Ano passado, em 2024, comecei a fazer &lsquo;self-hosting&rsquo; de alguns aplicativos, self-hosting entre aspas pois pra alguns só é self-hosting de verdade quando você faz tudo em casa, com seu próprio hardware. Algo que, infelizmente, não é o meu caso, considerando os desafios de manter um computador ligado 24 horas por dia, 7 dias por semana no Brasil. Por isso, optei por uma VPS, um servidor Linux remoto.</p>
 <p>Como eu sabia pouco sobre self-hosting, comecei usando um aplicativo chamado Caprover, que basicamente gerenciava tudo para mim, desde a instalação de aplicativos com um clique até certificados para que meu site pudesse usar HTTPS. Isso tudo era uma mão na roda, uma pá de aplicativos pra só clicar e rodar. Só que, como qualquer programa, algumas coisas nem sempre funcionam como esperado. Nessas horas, eu precisava colocar a mão na massa, abrir o terminal da VPS e tentar descobrir como fazer o que eu precisava, seja para resolver um problema ou para realizar algo que eu queria com um aplicativo (como quando precisei fazer backup de um banco de dados. Eu nunca tinha feito isso antes, mas aprendi a acessar um container Docker em execução, fazer o dump do banco de dados e copiar para fora do container!).</p>
 <h2 id="novo-ano-nova-vps">Novo ano, nova VPS</h2>
@@ -236,8 +270,10 @@
       <link>http://localhost:1313/posts/obsidian-sync-gratuito/</link>
       <pubDate>Mon, 14 Oct 2024 10:29:46 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
       <guid>http://localhost:1313/posts/obsidian-sync-gratuito/</guid>
-      <description>Requisitos: Plugin RemotelySave Conta na Cloudflare Cartão de crédito (necessário pro cadastro) R2 Bucket Sincronizar suas notas no Obsidian, entre as várias plataformas suportadas pelo aplicativo, costuma ser uma das maiores barreiras que os usuários tem ao mergulhar no incrível universo de possibilidades que o Obsidian oferece. Por um lado, a simplicidade e por outro as possibilidades quase ilimitadas que o aplicativo oferece.&#xA;Depois de tentar vários métodos, inclusive o oficial Obsidian Sync, descobri que você pode usar a generosa oferta gratuita da Cloudlfare para conseguir sincronizar suas notas e arquivos.</description>
-      <content:encoded><![CDATA[<hr>
+      <description>Sincronizando Obsidian com Cloudflare R2 Requisitos: Plugin RemotelySave Conta na Cloudflare Cartão de crédito (necessário pro cadastro) R2 Bucket Sincronizar suas notas no Obsidian, entre as várias plataformas suportadas pelo aplicativo, costuma ser uma das maiores barreiras que os usuários tem ao mergulhar no incrível universo de possibilidades que o Obsidian oferece. Por um lado, a simplicidade e por outro as possibilidades quase ilimitadas que o aplicativo oferece.
+Depois de tentar vários métodos, inclusive o oficial Obsidian Sync, descobri que você pode usar a generosa oferta gratuita da Cloudlfare para conseguir sincronizar suas notas e arquivos.</description>
+      <content:encoded><![CDATA[<h1 id="sincronizando-obsidian-com-cloudflare-r2">Sincronizando Obsidian com Cloudflare R2</h1>
+<hr>
 <h2 id="requisitos">Requisitos:</h2>
 <ul>
 <li>Plugin <a href="https://obsidian.md/plugins?id=remotely-save">RemotelySave</a></li>
@@ -297,8 +333,10 @@
       <link>http://localhost:1313/posts/usando-rss-hoje/</link>
       <pubDate>Fri, 04 Oct 2024 17:21:53 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
       <guid>http://localhost:1313/posts/usando-rss-hoje/</guid>
-      <description>Imagina ter controle total sobre o que você lê e informações que recebe online. Essa é a ideia do RSS. Bom não necessariamente isso, mas gosto de pensar que é.&#xA;O RSS é um formato simples que permite a você se inscrever em seus sites, blogs e podcasts favoritos e receber as últimas atualizações em um só lugar. Ao contrário das redes sociais, que controlam o que você vê através de algoritmos, o RSS coloca você no comando.</description>
-      <content:encoded><![CDATA[<p>Imagina ter controle total sobre o que você lê e informações que recebe online. Essa é a ideia do RSS. Bom não necessariamente isso, mas gosto de pensar que é.</p>
+      <description>Usando RSS em 202X Imagina ter controle total sobre o que você lê e informações que recebe online. Essa é a ideia do RSS. Bom não necessariamente isso, mas gosto de pensar que é.
+O RSS é um formato simples que permite a você se inscrever em seus sites, blogs e podcasts favoritos e receber as últimas atualizações em um só lugar. Ao contrário das redes sociais, que controlam o que você vê através de algoritmos, o RSS coloca você no comando.</description>
+      <content:encoded><![CDATA[<h1 id="usando-rss-em-202x">Usando RSS em 202X</h1>
+<p>Imagina ter controle total sobre o que você lê e informações que recebe online. Essa é a ideia do RSS. Bom não necessariamente isso, mas gosto de pensar que é.</p>
 <p>O RSS é um formato simples que permite a você se inscrever em seus sites, blogs e podcasts favoritos e receber as últimas atualizações em um só lugar. Ao contrário das redes sociais, que controlam o que você vê através de algoritmos, o RSS coloca você no comando.</p>
 <h2 id="por-que-usar-o-rss">Por que usar o RSS?</h2>
 <ul>
@@ -382,17 +420,6 @@
 <ul>
 <li>NetNewsWire</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Bem Vindos</title>
-      <link>http://localhost:1313/posts/bem-vindos/</link>
-      <pubDate>Sat, 28 Sep 2024 15:59:21 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
-      <guid>http://localhost:1313/posts/bem-vindos/</guid>
-      <description>Olá! Sou Riiku e este é o meu cantinho na internet. Aqui, vou compartilhar minhas paixões, descobertas e tudo o que aprendo por aí. Acredito que o conhecimento só ganha vida quando é dividido. Afinal, conhecimento pra uma pessoa só não é conhecimento de verdade, né?&#xA;A ideia de criar um blog surgiu da vontade de conectar com pessoas que, assim como eu, buscam conhecimento e novas perspectivas.</description>
-      <content:encoded><![CDATA[<p>Olá! Sou Riiku e este é o meu cantinho na internet. Aqui, vou compartilhar minhas paixões, descobertas e tudo o que aprendo por aí. Acredito que o conhecimento só ganha vida quando é dividido. Afinal, conhecimento pra uma pessoa só não é conhecimento de verdade, né?</p>
-<p>A ideia de criar um blog surgiu da vontade de conectar com pessoas que, assim como eu, buscam conhecimento e novas perspectivas.</p>
-<p><img src="https://vetplus.vet.br/wp-content/uploads/2019/12/ijjpojopkop.png#small"></p>
 ]]></content:encoded>
     </item>
   </channel>

@@ -8,24 +8,24 @@ timezone = "America/Fortaleza"
 copyright = "Por Riiku com ♡"
 
 [languages]
-  [languages.pt]
-    [languages.pt.params]
-      madeWith = "Feito usando [Hugo](https://gohugo.io/) e [Bear Cub](https://github.com/clente/hugo-bearcub)"
+[languages.pt]
+[languages.pt.params]
+madeWith = "Feito usando [Hugo](https://gohugo.io/) e [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
 
 [params]
 favicon = "/images/favicon.ico"
 dateFormat = "02/01/2006"
 description = "Um dia eu ainda vou aprender a escrever, até lá, vou seguir com esse blog"
-  [params.author]
-    name = "Riiku"
-    email = "ricardoars@tuta.io"
-    mastodon = "https://tech.lgbt/@riiku"
-    bluesky = "https://bsky.app/profile/riiku.fun"
+[params.author]
+name = "Riiku"
+email = "ricardoars@tuta.io"
+mastodon = "https://tech.lgbt/@riiku"
+bluesky = "https://bsky.app/profile/riiku.fun"
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
+tag = "tags"
+category = "categories"
 
 [[menu.main]]
 name = "inicio"
