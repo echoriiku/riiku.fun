@@ -14,7 +14,7 @@ madeWith = "Feito usando [Hugo](https://gohugo.io/) e [Bear Cub](https://github.
 
 
 [params]
-favicon = "/images/favicon.ico"
+favicon = "/images/favicon.webp"
 dateFormat = "02/01/2006"
 description = "Um dia eu ainda vou aprender a escrever, até lá, vou seguir com esse blog"
 [params.author]
