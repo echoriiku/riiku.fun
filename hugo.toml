@@ -42,10 +42,16 @@ name = "blog"
 url = "/tags/blog"
 weight = 3
 
+
 [[menu.main]]
-name = "tutoriais"
-url = "/tags/tutorial"
+name = "tags"
+url = "/tags"
 weight = 4
+
+# [[menu.main]]
+# name = "tutoriais"
+# url = "/tags/tutorial"
+# weight = 4
 
 [[menu.main]]
 name = "sobre"
