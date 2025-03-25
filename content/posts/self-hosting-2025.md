@@ -4,6 +4,7 @@ date = 2025-02-15T19:59:01-03:00
 draft = false
 tags = ['blog']
 +++
+
 # Self-Hosting
 
 Em 2025, decidi mudar um pouco as coisas. Pra começar, finalmente entendi que não preciso começar sempre pelo método mais completo (que acaba sendo mais difícil), não tem nada de errado em dar pequenos passos pra depois correr.
@@ -18,13 +19,10 @@ Com a virada do ano, os preços da VPS que estava usando aumentaram, o que me fe
 
 Atualmente, tenho 23 containers em execução e 16 serviços. Os meus mais utilizados são:
 
-- [Miniflux](<https://miniflux.app/>), um leitor de RSS minimalista que é simplesmente delicioso de usar.
-
-- [RSSHub](<https://docs.rsshub.app/>), um serviço que basicamente cria feeds de RSS de ~quase~ qualquer coisa, complementa o Miniflux.
-
-- [Readeck](<https://readeck.org/en/>), um read-it-later, onde posso salvar os artigos/links mais legais que chegam pelo Miniflux pra ler depois (os poucos que não leio diretamente no Miniflux)
-
-- [SearXNG](<https://docs.searxng.org/>), literalmente um mecanismo de busca, só que ‘meu’!
+- [Miniflux](https://miniflux.app/), um leitor de RSS minimalista que é simplesmente delicioso de usar.
+- [RSSHub](https://docs.rsshub.app/), um serviço que basicamente cria feeds de RSS de ~quase~ qualquer coisa, complementa o Miniflux.
+- [Readeck](https://readeck.org/en/), um read-it-later, onde posso salvar os artigos/links mais legais que chegam pelo Miniflux pra ler depois (os poucos que não leio diretamente no Miniflux)
+- [SearXNG](https://docs.searxng.org/), literalmente um mecanismo de busca, só que ‘meu’!
 
 É muito bom ter total controle sobre um serviço que você pode acessar de qualquer lugar, e que não é controlado por uma grande empresa de tecnologia. Todos esses serviços/aplicativos que tenho na minha VPS são de código aberto, gratuitos e contam com a colaboração da comunidade para o desenvolvimento.
 
@@ -33,15 +31,10 @@ Apesar de tudo isso, acho que self-hosting é algo que todo que gosta um pouco d
 Coisas que aprendi nessa pequena jornada:
 
 - Docker
-
-    - Containers
-
-    - Volumes
-
-    - Networks
-
+  - Containers
+  - Volumes
+  - Networks
 - Reverse Proxy
-
 - SSH e SSH-Keys
 
 Antes não conseguiria sem a ajuda do Caprover, hoje já consigo usando Caddy, no futuro, quero aprender a usar Traefik. Veremos o que 2025 tem pela frente.
