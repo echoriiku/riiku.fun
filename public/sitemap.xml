@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://riiku.fun/</loc>
     <lastmod>2025-03-20T11:29:57-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/buscadores/</loc>
+    <loc>https://riiku.fun/posts/buscadores/</loc>
     <lastmod>2025-03-20T11:29:57-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://riiku.fun/tags/blog/</loc>
     <lastmod>2025-03-20T11:29:57-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://riiku.fun/posts/</loc>
     <lastmod>2025-03-20T11:29:57-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://riiku.fun/tags/</loc>
     <lastmod>2025-03-20T11:29:57-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/rss-e-muito-bom/</loc>
+    <loc>https://riiku.fun/posts/rss-e-muito-bom/</loc>
     <lastmod>2025-03-16T00:07:55-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tutorial/</loc>
+    <loc>https://riiku.fun/tags/tutorial/</loc>
     <lastmod>2025-03-16T00:07:55-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/self-hosting-2025/</loc>
+    <loc>https://riiku.fun/posts/self-hosting-2025/</loc>
     <lastmod>2025-02-15T19:59:01-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/obsidian-sync-gratuito/</loc>
+    <loc>https://riiku.fun/posts/obsidian-sync-gratuito/</loc>
     <lastmod>2024-10-14T10:29:46-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/usando-rss-hoje/</loc>
+    <loc>https://riiku.fun/posts/usando-rss-hoje/</loc>
     <lastmod>2024-10-04T17:21:53-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://riiku.fun/categories/</loc>
   </url>
 </urlset>

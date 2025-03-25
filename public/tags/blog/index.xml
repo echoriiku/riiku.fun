@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog on (＃￣□￣)o━━☆ ⁂</title>
-    <link>http://localhost:1313/tags/blog/</link>
+    <link>https://riiku.fun/tags/blog/</link>
     <description>Recent content in Blog on (＃￣□￣)o━━☆ ⁂</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
@@ -10,12 +10,12 @@
     <webMaster>ricardoars@tuta.io (Riiku)</webMaster>
     <copyright>Por Riiku com ♡</copyright>
     <lastBuildDate>Thu, 20 Mar 2025 11:29:57 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://riiku.fun/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Busca por Autenticidade: Explorando a Web Independente</title>
-      <link>http://localhost:1313/posts/buscadores/</link>
+      <link>https://riiku.fun/posts/buscadores/</link>
       <pubDate>Thu, 20 Mar 2025 11:29:57 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
-      <guid>http://localhost:1313/posts/buscadores/</guid>
+      <guid>https://riiku.fun/posts/buscadores/</guid>
       <description>A Busca por Autenticidade: Explorando a Web Independente Essa postagem do blog, talvez seja uma forma atualizada, tanto sobre a pessoa que escreve quanto sobre a situação atual da internet.
 Anos atrás eu escrevi no Paper.wf, uma instancia aberta do WriteFreely, que é uma plataforma open-source de blogs, muito legal por sinal, mas que infelizmente não supria as minhas necessidades. Nessa postagem eu falava sobre vários buscadores, do Google, passando pelo DuckDuckGo ao SearXNG, o último por sinal vai ser parte dessa postagem também!</description>
       <content:encoded><![CDATA[<h1 id="a-busca-por-autenticidade-explorando-a-web-independente">A Busca por Autenticidade: Explorando a Web Independente</h1>
@@ -55,9 +55,9 @@ Anos atrás eu escrevi no Paper.wf, uma instancia aberta do WriteFreely, que é 
     </item>
     <item>
       <title>Self-Hosting</title>
-      <link>http://localhost:1313/posts/self-hosting-2025/</link>
+      <link>https://riiku.fun/posts/self-hosting-2025/</link>
       <pubDate>Sat, 15 Feb 2025 19:59:01 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
-      <guid>http://localhost:1313/posts/self-hosting-2025/</guid>
+      <guid>https://riiku.fun/posts/self-hosting-2025/</guid>
       <description>Self-Hosting Em 2025, decidi mudar um pouco as coisas. Pra começar, finalmente entendi que não preciso começar sempre pelo método mais completo (que acaba sendo mais difícil), não tem nada de errado em dar pequenos passos pra depois correr.
 Ano passado, em 2024, comecei a fazer &amp;amp;lsquo;self-hosting&amp;amp;rsquo; de alguns aplicativos, self-hosting entre aspas pois pra alguns só é self-hosting de verdade quando você faz tudo em casa, com seu próprio hardware.</description>
       <content:encoded><![CDATA[<h1 id="self-hosting">Self-Hosting</h1>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>(＃￣□￣)o━━☆ ⁂</title>
-    <link>http://localhost:1313/</link>
+    <link>https://riiku.fun/</link>
     <description>Recent content on (＃￣□￣)o━━☆ ⁂</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
@@ -10,12 +10,12 @@
     <webMaster>ricardoars@tuta.io (Riiku)</webMaster>
     <copyright>Por Riiku com ♡</copyright>
     <lastBuildDate>Thu, 20 Mar 2025 11:29:57 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://riiku.fun/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Busca por Autenticidade: Explorando a Web Independente</title>
-      <link>http://localhost:1313/posts/buscadores/</link>
+      <link>https://riiku.fun/posts/buscadores/</link>
       <pubDate>Thu, 20 Mar 2025 11:29:57 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
-      <guid>http://localhost:1313/posts/buscadores/</guid>
+      <guid>https://riiku.fun/posts/buscadores/</guid>
       <description>A Busca por Autenticidade: Explorando a Web Independente Essa postagem do blog, talvez seja uma forma atualizada, tanto sobre a pessoa que escreve quanto sobre a situação atual da internet.
 Anos atrás eu escrevi no Paper.wf, uma instancia aberta do WriteFreely, que é uma plataforma open-source de blogs, muito legal por sinal, mas que infelizmente não supria as minhas necessidades. Nessa postagem eu falava sobre vários buscadores, do Google, passando pelo DuckDuckGo ao SearXNG, o último por sinal vai ser parte dessa postagem também!</description>
       <content:encoded><![CDATA[<h1 id="a-busca-por-autenticidade-explorando-a-web-independente">A Busca por Autenticidade: Explorando a Web Independente</h1>
@@ -55,9 +55,9 @@ Anos atrás eu escrevi no Paper.wf, uma instancia aberta do WriteFreely, que é 
     </item>
     <item>
       <title>RSS é incrível, você só não sabe disso ainda</title>
-      <link>http://localhost:1313/posts/rss-e-muito-bom/</link>
+      <link>https://riiku.fun/posts/rss-e-muito-bom/</link>
       <pubDate>Sun, 16 Mar 2025 00:07:55 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
-      <guid>http://localhost:1313/posts/rss-e-muito-bom/</guid>
+      <guid>https://riiku.fun/posts/rss-e-muito-bom/</guid>
       <description>RSS é incrível, você só não sabe disso ainda Outro dia, um post meu no Bluesky ganhou bastante atenção, felizmente por um bom motivo. O post em questão falava sobre RSS, feed readers e em como eles deveriam ressurgir.
 Essa postagem me fez pensar nas várias possibilidades que RSS tem a oferecer. Por isso, vou aproveitar e mostrar algumas das várias formas de usar RSS e quem sabe isso não desperta um novo interesse em você?</description>
       <content:encoded><![CDATA[<h1 id="rss-é-incrível-você-só-não-sabe-disso-ainda">RSS é incrível, você só não sabe disso ainda</h1>
@@ -95,125 +95,125 @@ Essa postagem me fez pensar nas várias possibilidades que RSS tem a oferecer. P
 </ul>
 <p>Depois da lista de apps, nada melhor que uma lista de feeds pra você seguir, esses são alguns dos que eu sigo no meu leitor de RSS, sinta-se à vontade pra seguir alguns e aproveitar a liberdade de um feed sem algoritmos que você tem total controle sobre o que aparece nele.</p>
 <hr>
-<h2 id="anime--manga-blogs-">Anime &amp; Manga Blogs 🇯🇵</h2>
+<h2 id="personal-blogs-">Personal Blogs 📝</h2>
 <ul>
-<li><a href="https://www.animemangastudies.com/feed/">Anime and Manga Studies</a> (<a href="https://www.animemangastudies.com/feed/">feed</a>)</li>
-<li><a href="https://fullfrontal.moe/feed/">Full Frontal</a> (<a href="https://fullfrontal.moe/feed/">feed</a>)</li>
-<li><a href="https://blog.sakugabooru.com/feed/">Sakuga Blog</a> (<a href="https://blog.sakugabooru.com/feed/">feed</a>)</li>
-<li><a href="https://satchiikoma.wordpress.com/feed/">SatchiiKoma</a> (<a href="https://satchiikoma.wordpress.com/feed/">feed</a>)</li>
-<li><a href="https://www.zimmerit.moe/feed/">ZIMMERIT</a> (<a href="https://www.zimmerit.moe/feed/">feed</a>)</li>
-</ul>
-<h2 id="daily-news-">Daily News 📰</h2>
-<ul>
-<li><a href="https://www.404media.co/rss/">404 Media</a> (<a href="https://www.404media.co/rss/">feed</a>)</li>
-<li><a href="https://feed.alternativeto.net/news/all/">AlternativeTo News</a> (<a href="https://feed.alternativeto.net/news/all/">feed</a>)</li>
-</ul>
-<h2 id="developer-activity-">Developer Activity 💾</h2>
-<ul>
-<li><a href="https://github.com/miniflux/v2/commits.atom">Miniflux Commits</a> (<a href="https://github.com/miniflux/v2/commits.atom">feed</a>)</li>
-</ul>
-<h2 id="gaming-blogs">Gaming Blogs🕹️</h2>
-<ul>
-<li><a href="https://buried-treasure.org/feed/">Buried Treasure</a> (<a href="https://buried-treasure.org/feed/">feed</a>)</li>
-<li><a href="http://cdrom.ca/feed.xml">CD-ROM Journal</a> (<a href="http://cdrom.ca/feed.xml">feed</a>)</li>
-<li><a href="https://ephemeralenigmascom.wordpress.com/feed/">Ephemeral Enigmas</a> (<a href="https://ephemeralenigmascom.wordpress.com/feed/">feed</a>)</li>
-<li><a href="https://grandtextauto.soe.ucsc.edu/feed/">Grand Text Auto</a> (<a href="https://grandtextauto.soe.ucsc.edu/feed/">feed</a>)</li>
-<li><a href="http://www.hardcoregaming101.net/feed/">Hardcore Gaming 101</a> (<a href="http://www.hardcoregaming101.net/feed/">feed</a>)</li>
-<li><a href="https://kimimithegameeatingshemonster.com/feed/">Kimimi The Game-Eating She-Monster</a> (<a href="https://kimimithegameeatingshemonster.com/feed/">feed</a>)</li>
-<li><a href="https://paintedpixelsblog.wordpress.com/feed/">Painted Pixels</a> (<a href="https://paintedpixelsblog.wordpress.com/feed/">feed</a>)</li>
-<li><a href="https://pixelpoppers.com/index.xml">Pixel Poppers</a> (<a href="https://pixelpoppers.com/index.xml">feed</a>)</li>
-<li><a href="https://www.playthepast.org/?feed=rss2">Playthepast</a> (<a href="https://www.playthepast.org/?feed=rss2">feed</a>)</li>
-<li><a href="https://simonschreibt.de/feed/">Simonschreibt.</a> (<a href="https://simonschreibt.de/feed/">feed</a>)</li>
-<li><a href="https://www.filfre.net/feed/">The Digital Antiquarian</a> (<a href="https://www.filfre.net/feed/">feed</a>)</li>
-<li><a href="https://www.thefrugalgamer.net/rss.xml">TheFrugalGamer.Net Updates Log</a> (<a href="https://www.thefrugalgamer.net/rss.xml">feed</a>)</li>
-<li><a href="https://www.blogger.com/feeds/416041531001318874/posts/default">Toomanywires</a> (<a href="https://www.blogger.com/feeds/416041531001318874/posts/default">feed</a>)</li>
-<li><a href="https://whirlitzer-of-wisdom.blogspot.com/feeds/posts/default">Whirlitzer of Wisdom</a> (<a href="https://whirlitzer-of-wisdom.blogspot.com/feeds/posts/default">feed</a>)</li>
+<li><a href="https://82mhz.net/">82MHz</a></li>
+<li><a href="https://acoup.blog/">A Collection of Unmitigated Pedantry</a></li>
+<li><a href="https://analogoffice.net/">Analog Office</a></li>
+<li><a href="https://andregarzia.com/">AndreGarzia.com</a></li>
+<li><a href="http://ascii.textfiles.com/">ASCII by Jason Scott</a></li>
+<li><a href="https://bacardi55.io/posts/">Bacardi55&rsquo;s Web Cave</a></li>
+<li><a href="https://bobulate.com/">Bobulate</a></li>
+<li><a href="https://cassidoo.co/">Cassidy Williams</a></li>
+<li><a href="https://conoroneill.net/">Cross Dominant</a></li>
+<li><a href="https://www.datagubbe.se/">datagubbe</a></li>
+<li><a href="https://daudix.one/blog/">Daudix - Progressive Enhancement</a></li>
+<li><a href="https://soatok.blog/">Dhole Moments</a></li>
+<li><a href="https://ecc-comp.blogspot.com/">Eccentric Computing</a></li>
+<li><a href="https://edleeman.co.uk/">Ed Leeman</a></li>
+<li><a href="https://erinkissane.com/">Erin Kissane&rsquo;s small internet website</a></li>
+<li><a href="https://fabiensanglard.net/">Fabien Sanglard</a></li>
+<li><a href="https://fromearthtothestars.com/">From Earth to the Stars</a></li>
+<li><a href="https://growinguptransgender.com/">Growing Up Transgender</a></li>
+<li><a href="https://poor.dev/">Hi there! on poor.dev</a></li>
+<li><a href="https://interplayoflight.wordpress.com/">Interplay of Light</a></li>
+<li><a href="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</a></li>
+<li><a href="https://joshcollinsworth.com/">Josh Collinsworth</a></li>
+<li><a href="https://hamatti.org/">Juha-Matti Santala - Community Builder. Dreamer. Adventurer.</a></li>
+<li><a href="https://lucamarx.com/blog/">Luca Marx</a></li>
+<li><a href="https://maia.crimew.gay/">maia blog</a></li>
+<li><a href="https://manualdousuario.net/">Manual do Usuário</a></li>
+<li><a href="https://marius.ink/">Marius Masalar</a></li>
+<li><a href="https://blog.omgmog.net/">Max Glenister</a></li>
+<li><a href="https://maya.land/">maya.land</a></li>
+<li><a href="https://www.supergoodcode.com/">Mike Blumenkrantz</a></li>
+<li><a href="https://minutestomidnight.co.uk">Minutes to Midnight</a></li>
+<li><a href="https://journal.neilgaiman.com/">Neil Gaiman&rsquo;s Journal</a></li>
+<li><a href="http://nickdiego.dev/blog/">Nickdiego Blog</a></li>
+<li><a href="https://nicole.express/">Nicole Express</a></li>
+<li><a href="https://rosenzweig.io/">On Life and Lisp</a></li>
+<li><a href="https://practicalbetterments.com/">Practical betterments</a></li>
+<li><a href="https://www.queridoclassico.com/">Querido Clássico</a></li>
+<li><a href="https://resolutereader.blogspot.com/">ResoluteReader</a></li>
+<li><a href="https://so1o.xyz/blog/">Roar of the Days</a></li>
+<li><a href="https://rknight.me/">Robb Knight • Posts • Atom Feed</a></li>
+<li><a href="https://rubenerd.com/">Rubenerd</a></li>
+<li><a href="https://sdomi.pl/weblog/">sdomi&rsquo;s weblog</a></li>
+<li><a href="https://slatecave.net/">slatecave.net</a></li>
+<li><a href="https://v5.chriskrycho.com/">Sympolymathesy, by Chris Krycho</a></li>
+<li><a href="https://blog.carlana.net/">The Ethically-Trained Programmer</a></li>
+<li><a href="https://osshistory.org/">The OSS History Newsletter</a></li>
+<li><a href="https://trstringer.com/">Thomas Stringer</a></li>
+<li><a href="https://www.uncharted-worlds.org/blog/">Uncharted Worlds</a></li>
+<li><a href="https://vadosware.io/">VADOSWARE</a></li>
+<li><a href="https://cheshireviolet.github.io/">violeta | ceci blog</a></li>
+<li><a href="https://blog.vladzahorodnii.com/">Vlad Zahorodnii&rsquo;s Blog</a></li>
 </ul>
 <h2 id="mags--articles-">Mags &amp; Articles 📚</h2>
 <ul>
-<li><a href="https://www.yokogaomag.com/">Yokogao Magazine │ Japanese Culture Magazine</a> (<a href="https://rss.diffbot.com/atom?url=https://www.yokogaomag.com/">feed</a>)</li>
-<li><a href="https://asteriskmag.com/feed">Asterisk</a> (<a href="https://asteriskmag.com/feed">feed</a>)</li>
-<li><a href="https://bluelabyrinths.com/feed/">Blue Labyrinths</a> (<a href="https://bluelabyrinths.com/feed/">feed</a>)</li>
-<li><a href="https://www.codastory.com/feed/">Coda Story</a> (<a href="https://www.codastory.com/feed/">feed</a>)</li>
-<li><a href="https://epochemagazine.org/feed/">Epoché Magazine</a> (<a href="https://epochemagazine.org/feed/">feed</a>)</li>
-<li><a href="https://hazlitt.net/rss.xml">Hazlitt</a> (<a href="https://hazlitt.net/rss.xml">feed</a>)</li>
-<li><a href="https://www.noemamag.com/?feed=noemarss">NOEMA</a> (<a href="https://www.noemamag.com/?feed=noemarss">feed</a>)</li>
-<li><a href="https://magazine.atavist.com/feed/">The Atavist Magazine</a> (<a href="https://magazine.atavist.com/feed/">feed</a>)</li>
+<li><a href="https://www.yokogaomag.com/">Yokogao Magazine │ Japanese Culture Magazine</a></li>
+<li><a href="https://asteriskmag.com/">Asterisk</a></li>
+<li><a href="https://bluelabyrinths.com/">Blue Labyrinths</a></li>
+<li><a href="https://www.codastory.com/">Coda Story</a></li>
+<li><a href="https://epochemagazine.org/">Epoché Magazine</a></li>
+<li><a href="https://hazlitt.net/">Hazlitt</a></li>
+<li><a href="https://www.noemamag.com/">NOEMA</a></li>
+<li><a href="https://magazine.atavist.com/">The Atavist Magazine</a></li>
+</ul>
+<h2 id="anime--manga-blogs-">Anime &amp; Manga Blogs 🇯🇵</h2>
+<ul>
+<li><a href="https://www.animemangastudies.com/">Anime and Manga Studies</a></li>
+<li><a href="https://fullfrontal.moe/">Full Frontal</a></li>
+<li><a href="https://blog.sakugabooru.com/">Sakuga Blog</a></li>
+<li><a href="https://satchiikoma.wordpress.com/">SatchiiKoma</a></li>
+<li><a href="https://www.zimmerit.moe/">ZIMMERIT</a></li>
+</ul>
+<h2 id="daily-news-">Daily News 📰</h2>
+<ul>
+<li><a href="https://www.404media.co/">404 Media</a></li>
+<li><a href="https://alternativeto.net/news/all/">AlternativeTo News</a></li>
+</ul>
+<h2 id="developer-activity-">Developer Activity 💾</h2>
+<ul>
+<li><a href="https://github.com/miniflux/v2/commits.atom">Miniflux Commits</a></li>
+</ul>
+<h2 id="gaming-blogs">Gaming Blogs🕹️</h2>
+<ul>
+<li><a href="https://buried-treasure.org/">Buried Treasure</a></li>
+<li><a href="http://cdrom.ca/">CD-ROM Journal</a></li>
+<li><a href="https://ephemeralenigmascom.wordpress.com/">Ephemeral Enigmas</a></li>
+<li><a href="https://grandtextauto.soe.ucsc.edu/">Grand Text Auto</a></li>
+<li><a href="http://www.hardcoregaming101.net/">Hardcore Gaming 101</a></li>
+<li><a href="https://kimimithegameeatingshemonster.com/">Kimimi The Game-Eating She-Monster</a></li>
+<li><a href="https://paintedpixelsblog.wordpress.com/">Painted Pixels</a></li>
+<li><a href="https://pixelpoppers.com/">Pixel Poppers</a></li>
+<li><a href="https://www.playthepast.org/">Playthepast</a></li>
+<li><a href="https://simonschreibt.de/">Simonschreibt.</a></li>
+<li><a href="https://www.filfre.net/">The Digital Antiquarian</a></li>
+<li><a href="https://www.thefrugalgamer.net/">TheFrugalGamer.Net Updates Log</a></li>
+<li><a href="https://www.blogger.com/feeds/416041531001318874/posts/default">Toomanywires</a></li>
+<li><a href="https://whirlitzer-of-wisdom.blogspot.com/">Whirlitzer of Wisdom</a></li>
 </ul>
 <h2 id="miscellaneous-">Miscellaneous 🌈</h2>
 <ul>
-<li><a href="https://haveibeenpwned.com">Have I Been Pwned</a> (<a href="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches?ref=troyhunt.com">feed</a>)</li>
-<li><a href="https://obsidianjourney.com/">Obsidian Journey</a> (<a href="https://obsidianjourney.com/index.xml">feed</a>)</li>
-<li><a href="https://ooh.directory/feeds/recently-added.xml">ooh.directory recently added blogs</a> (<a href="https://ooh.directory/feeds/recently-added.xml">feed</a>)</li>
+<li><a href="https://haveibeenpwned.com">Have I Been Pwned</a></li>
+<li><a href="https://obsidianjourney.com/">Obsidian Journey</a></li>
+<li><a href="https://ooh.directory/">ooh.directory recently added blogs</a></li>
 </ul>
 <h2 id="open-source--linux-news-">Open Source &amp; Linux News 🐧</h2>
 <ul>
-<li><a href="https://fedoramagazine.org/">Fedora Magazine</a> (<a href="https://fedoramagazine.org/feed/">feed</a>)</li>
-<li><a href="https://blogs.kde.org/index.xml">KDE Blogs</a> (<a href="https://blogs.kde.org/index.xml">feed</a>)</li>
-<li><a href="https://thisweek.gnome.org/index.xml">This Week in GNOME</a> (<a href="https://thisweek.gnome.org/index.xml">feed</a>)</li>
-<li><a href="https://pointieststick.com/category/this-week-in-kde/feed/">This Week in KDE</a> (<a href="https://pointieststick.com/category/this-week-in-kde/feed/">feed</a>)</li>
-</ul>
-<h2 id="personal-blogs-">Personal Blogs 📝</h2>
-<ul>
-<li><a href="https://82mhz.net/">82MHz</a> (<a href="https://82mhz.net/index.xml">feed</a>)</li>
-<li><a href="https://acoup.blog/feed/">A Collection of Unmitigated Pedantry</a> (<a href="https://acoup.blog/feed/">feed</a>)</li>
-<li><a href="https://analogoffice.net/feed.xml">Analog Office</a> (<a href="https://analogoffice.net/feed.xml">feed</a>)</li>
-<li><a href="https://andregarzia.com/feeds/all.atom.xml">AndreGarzia.com</a> (<a href="https://andregarzia.com/feeds/all.atom.xml">feed</a>)</li>
-<li><a href="http://ascii.textfiles.com/feed">ASCII by Jason Scott</a> (<a href="http://ascii.textfiles.com/feed">feed</a>)</li>
-<li><a href="https://bacardi55.io/posts/">Bacardi55&rsquo;s Web Cave</a> (<a href="https://bacardi55.io/posts/index.xml">feed</a>)</li>
-<li><a href="https://bobulate.com/feed/">Bobulate</a> (<a href="https://bobulate.com/feed/">feed</a>)</li>
-<li><a href="https://cassidoo.co/">Cassidy Williams</a> (<a href="https://cassidoo.co/rss.xml">feed</a>)</li>
-<li><a href="https://conoroneill.net/">Cross Dominant</a> (<a href="https://conoroneill.net/index.xml">feed</a>)</li>
-<li><a href="https://www.datagubbe.se/atom.xml">datagubbe</a> (<a href="https://www.datagubbe.se/atom.xml">feed</a>)</li>
-<li><a href="https://daudix.one/blog/">Daudix - Progressive Enhancement</a> (<a href="https://daudix.one/blog/atom.xml">feed</a>)</li>
-<li><a href="https://soatok.blog/feed/">Dhole Moments</a> (<a href="https://soatok.blog/feed/">feed</a>)</li>
-<li><a href="https://ecc-comp.blogspot.com/feeds/posts/default">Eccentric Computing</a> (<a href="https://ecc-comp.blogspot.com/feeds/posts/default">feed</a>)</li>
-<li><a href="https://edleeman.co.uk/index.xml">Ed Leeman</a> (<a href="https://edleeman.co.uk/index.xml">feed</a>)</li>
-<li><a href="https://erinkissane.com/feed.rss">Erin Kissane&rsquo;s small internet website</a> (<a href="https://erinkissane.com/feed.rss">feed</a>)</li>
-<li><a href="https://fabiensanglard.net/rss.xml">Fabien Sanglard</a> (<a href="https://fabiensanglard.net/rss.xml">feed</a>)</li>
-<li><a href="https://fromearthtothestars.com/feed/">From Earth to the Stars</a> (<a href="https://fromearthtothestars.com/feed/">feed</a>)</li>
-<li><a href="https://growinguptransgender.com/feed/">Growing Up Transgender</a> (<a href="https://growinguptransgender.com/feed/">feed</a>)</li>
-<li><a href="https://poor.dev/index.xml">Hi there! on poor.dev</a> (<a href="https://poor.dev/index.xml">feed</a>)</li>
-<li><a href="https://interplayoflight.wordpress.com/feed/">Interplay of Light</a> (<a href="https://interplayoflight.wordpress.com/feed/">feed</a>)</li>
-<li><a href="https://blog.jim-nielsen.com/feed.xml">Jim Nielsen’s Blog</a> (<a href="https://blog.jim-nielsen.com/feed.xml">feed</a>)</li>
-<li><a href="https://joshcollinsworth.com/api/rss.xml">Josh Collinsworth</a> (<a href="https://joshcollinsworth.com/api/rss.xml">feed</a>)</li>
-<li><a href="https://hamatti.org/feed/feed.xml">Juha-Matti Santala - Community Builder. Dreamer. Adventurer.</a> (<a href="https://hamatti.org/feed/feed.xml">feed</a>)</li>
-<li><a href="https://lucamarx.com/blog/rss.xml">Luca Marx</a> (<a href="https://lucamarx.com/blog/rss.xml">feed</a>)</li>
-<li><a href="https://maia.crimew.gay/feed.xml">maia blog</a> (<a href="https://maia.crimew.gay/feed.xml">feed</a>)</li>
-<li><a href="https://manualdousuario.net/feed/">Manual do Usuário</a> (<a href="https://manualdousuario.net/feed/">feed</a>)</li>
-<li><a href="https://marius.ink/feed.atom">Marius Masalar</a> (<a href="https://marius.ink/feed.atom">feed</a>)</li>
-<li><a href="https://blog.omgmog.net/feed.xml">Max Glenister</a> (<a href="https://blog.omgmog.net/feed.xml">feed</a>)</li>
-<li><a href="https://maya.land/feed.xml">maya.land</a> (<a href="https://maya.land/feed.xml">feed</a>)</li>
-<li><a href="https://www.supergoodcode.com/feed.xml">Mike Blumenkrantz</a> (<a href="https://www.supergoodcode.com/feed.xml">feed</a>)</li>
-<li><a href="https://minutestomidnight.co.uk">Minutes to Midnight</a> (<a href="https://minutestomidnight.co.uk/feed.xml">feed</a>)</li>
-<li><a href="https://journal.neilgaiman.com/feeds/posts/default">Neil Gaiman&rsquo;s Journal</a> (<a href="https://journal.neilgaiman.com/feeds/posts/default">feed</a>)</li>
-<li><a href="http://nickdiego.dev/blog/">Nickdiego Blog</a> (<a href="https://nickdiego.dev/blog/index.xml">feed</a>)</li>
-<li><a href="https://nicole.express/feed.xml">Nicole Express</a> (<a href="https://nicole.express/feed.xml">feed</a>)</li>
-<li><a href="https://rosenzweig.io/feed.xml">On Life and Lisp</a> (<a href="https://rosenzweig.io/feed.xml">feed</a>)</li>
-<li><a href="https://practicalbetterments.com/feed.xml">Practical betterments</a> (<a href="https://practicalbetterments.com/feed.xml">feed</a>)</li>
-<li><a href="https://www.queridoclassico.com/feeds/posts/default">Querido Clássico</a> (<a href="https://www.queridoclassico.com/feeds/posts/default">feed</a>)</li>
-<li><a href="https://resolutereader.blogspot.com/feeds/posts/default">ResoluteReader</a> (<a href="https://resolutereader.blogspot.com/feeds/posts/default">feed</a>)</li>
-<li><a href="https://so1o.xyz/blog/">Roar of the Days</a> (<a href="https://so1o.xyz/feed.xml">feed</a>)</li>
-<li><a href="https://rknight.me/subscribe/posts/atom.xml">Robb Knight • Posts • Atom Feed</a> (<a href="https://rknight.me/subscribe/posts/atom.xml">feed</a>)</li>
-<li><a href="https://rubenerd.com/feed/">Rubenerd</a> (<a href="https://rubenerd.com/feed/">feed</a>)</li>
-<li><a href="https://sdomi.pl/weblog/atom/">sdomi&rsquo;s weblog</a> (<a href="https://sdomi.pl/weblog/atom/">feed</a>)</li>
-<li><a href="https://slatecave.net/atom.xml">slatecave.net</a> (<a href="https://slatecave.net/atom.xml">feed</a>)</li>
-<li><a href="https://v5.chriskrycho.com/feed.xml">Sympolymathesy, by Chris Krycho</a> (<a href="https://v5.chriskrycho.com/feed.xml">feed</a>)</li>
-<li><a href="https://blog.carlana.net/index.xml">The Ethically-Trained Programmer</a> (<a href="https://blog.carlana.net/index.xml">feed</a>)</li>
-<li><a href="https://osshistory.org/feed">The OSS History Newsletter</a> (<a href="https://osshistory.org/feed">feed</a>)</li>
-<li><a href="https://trstringer.com/feed.xml">Thomas Stringer</a> (<a href="https://trstringer.com/feed.xml">feed</a>)</li>
-<li><a href="https://www.uncharted-worlds.org/blog/feed/">Uncharted Worlds</a> (<a href="https://www.uncharted-worlds.org/blog/feed/">feed</a>)</li>
-<li><a href="https://vadosware.io/index.xml">VADOSWARE</a> (<a href="https://vadosware.io/index.xml">feed</a>)</li>
-<li><a href="https://cheshireviolet.github.io/">violeta | ceci blog</a> (<a href="https://cheshireviolet.github.io/index.xml">feed</a>)</li>
-<li><a href="https://blog.vladzahorodnii.com/feed/">Vlad Zahorodnii&rsquo;s Blog</a> (<a href="https://blog.vladzahorodnii.com/feed/">feed</a>)</li>
+<li><a href="https://fedoramagazine.org/">Fedora Magazine</a></li>
+<li><a href="https://blogs.kde.org/">KDE Blogs</a></li>
+<li><a href="https://thisweek.gnome.org/">This Week in GNOME</a></li>
+<li><a href="https://pointieststick.com/category/this-week-in-kde/">This Week in KDE</a></li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
       <title>Self-Hosting</title>
-      <link>http://localhost:1313/posts/self-hosting-2025/</link>
+      <link>https://riiku.fun/posts/self-hosting-2025/</link>
       <pubDate>Sat, 15 Feb 2025 19:59:01 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
-      <guid>http://localhost:1313/posts/self-hosting-2025/</guid>
+      <guid>https://riiku.fun/posts/self-hosting-2025/</guid>
       <description>Self-Hosting Em 2025, decidi mudar um pouco as coisas. Pra começar, finalmente entendi que não preciso começar sempre pelo método mais completo (que acaba sendo mais difícil), não tem nada de errado em dar pequenos passos pra depois correr.
 Ano passado, em 2024, comecei a fazer &amp;amp;lsquo;self-hosting&amp;amp;rsquo; de alguns aplicativos, self-hosting entre aspas pois pra alguns só é self-hosting de verdade quando você faz tudo em casa, com seu próprio hardware.</description>
       <content:encoded><![CDATA[<h1 id="self-hosting">Self-Hosting</h1>
@@ -267,9 +267,9 @@ Ano passado, em 2024, comecei a fazer &amp;amp;lsquo;self-hosting&amp;amp;rsquo;
     </item>
     <item>
       <title>Sincronizando Obsidian com Cloudflare R2</title>
-      <link>http://localhost:1313/posts/obsidian-sync-gratuito/</link>
+      <link>https://riiku.fun/posts/obsidian-sync-gratuito/</link>
       <pubDate>Mon, 14 Oct 2024 10:29:46 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
-      <guid>http://localhost:1313/posts/obsidian-sync-gratuito/</guid>
+      <guid>https://riiku.fun/posts/obsidian-sync-gratuito/</guid>
       <description>Sincronizando Obsidian com Cloudflare R2 Requisitos: Plugin RemotelySave Conta na Cloudflare Cartão de crédito (necessário pro cadastro) R2 Bucket Sincronizar suas notas no Obsidian, entre as várias plataformas suportadas pelo aplicativo, costuma ser uma das maiores barreiras que os usuários tem ao mergulhar no incrível universo de possibilidades que o Obsidian oferece. Por um lado, a simplicidade e por outro as possibilidades quase ilimitadas que o aplicativo oferece.
 Depois de tentar vários métodos, inclusive o oficial Obsidian Sync, descobri que você pode usar a generosa oferta gratuita da Cloudlfare para conseguir sincronizar suas notas e arquivos.</description>
       <content:encoded><![CDATA[<h1 id="sincronizando-obsidian-com-cloudflare-r2">Sincronizando Obsidian com Cloudflare R2</h1>
@@ -330,9 +330,9 @@ Depois de tentar vários métodos, inclusive o oficial Obsidian Sync, descobri q
     </item>
     <item>
       <title>Usando RSS em 202X</title>
-      <link>http://localhost:1313/posts/usando-rss-hoje/</link>
+      <link>https://riiku.fun/posts/usando-rss-hoje/</link>
       <pubDate>Fri, 04 Oct 2024 17:21:53 -0300</pubDate><author>ricardoars@tuta.io (Riiku)</author>
-      <guid>http://localhost:1313/posts/usando-rss-hoje/</guid>
+      <guid>https://riiku.fun/posts/usando-rss-hoje/</guid>
       <description>Usando RSS em 202X Imagina ter controle total sobre o que você lê e informações que recebe online. Essa é a ideia do RSS. Bom não necessariamente isso, mas gosto de pensar que é.
 O RSS é um formato simples que permite a você se inscrever em seus sites, blogs e podcasts favoritos e receber as últimas atualizações em um só lugar. Ao contrário das redes sociais, que controlam o que você vê através de algoritmos, o RSS coloca você no comando.</description>
       <content:encoded><![CDATA[<h1 id="usando-rss-em-202x">Usando RSS em 202X</h1>
