@@ -238,43 +238,24 @@ Ano passado, em 2024, comecei a fazer ‘self-hosting’ de alguns aplicativos, 
 <p>Com a virada do ano, os preços da VPS que estava usando aumentaram, o que me fez buscar por outras alternativas. Aproveitei a oportunidade para começar tudo do zero, fazendo o máximo possível manualmente. Para isso, instalei o Debian (ao invés do Ubuntu da antiga VPS), fiz a configuração básica do Docker, instalei o <a href="https://caddyserver.com/">Caddy</a> para usar como proxy reverso e criei uma série de pastas para cada aplicativo, cada uma com seu arquivo docker-compose.yaml dentro, deixando tudo organizado.</p>
 <p>Atualmente, tenho 23 containers em execução e 16 serviços. Os meus mais utilizados são:</p>
 <ul>
-<li>
-<p><a href="https://miniflux.app/">Miniflux</a>, um leitor de RSS minimalista que é simplesmente delicioso de usar.</p>
-</li>
-<li>
-<p><a href="https://docs.rsshub.app/">RSSHub</a>, um serviço que basicamente cria feeds de RSS de <del>quase</del> qualquer coisa, complementa o Miniflux.</p>
-</li>
-<li>
-<p><a href="https://readeck.org/en/">Readeck</a>, um read-it-later, onde posso salvar os artigos/links mais legais que chegam pelo Miniflux pra ler depois (os poucos que não leio diretamente no Miniflux)</p>
-</li>
-<li>
-<p><a href="https://docs.searxng.org/">SearXNG</a>, literalmente um mecanismo de busca, só que ‘meu’!</p>
-</li>
+<li><a href="https://miniflux.app/">Miniflux</a>, um leitor de RSS minimalista que é simplesmente delicioso de usar.</li>
+<li><a href="https://docs.rsshub.app/">RSSHub</a>, um serviço que basicamente cria feeds de RSS de <del>quase</del> qualquer coisa, complementa o Miniflux.</li>
+<li><a href="https://readeck.org/en/">Readeck</a>, um read-it-later, onde posso salvar os artigos/links mais legais que chegam pelo Miniflux pra ler depois (os poucos que não leio diretamente no Miniflux)</li>
+<li><a href="https://docs.searxng.org/">SearXNG</a>, literalmente um mecanismo de busca, só que ‘meu’!</li>
 </ul>
 <p>É muito bom ter total controle sobre um serviço que você pode acessar de qualquer lugar, e que não é controlado por uma grande empresa de tecnologia. Todos esses serviços/aplicativos que tenho na minha VPS são de código aberto, gratuitos e contam com a colaboração da comunidade para o desenvolvimento.</p>
 <p>Apesar de tudo isso, acho que self-hosting é algo que todo que gosta um pouco de computadores deveria tentar, na grande maioria das vezes você nem precisa de um servidor remoto, tem inúmeros apps que funcionam localmente usando docker, fora que é uma excelente oportunidade pra aprender mais sobre como esses serviços funcionam.</p>
 <p>Coisas que aprendi nessa pequena jornada:</p>
 <ul>
-<li>
-<p>Docker</p>
+<li>Docker
 <ul>
-<li>
-<p>Containers</p>
-</li>
-<li>
-<p>Volumes</p>
-</li>
-<li>
-<p>Networks</p>
-</li>
+<li>Containers</li>
+<li>Volumes</li>
+<li>Networks</li>
 </ul>
 </li>
-<li>
-<p>Reverse Proxy</p>
-</li>
-<li>
-<p>SSH e SSH-Keys</p>
-</li>
+<li>Reverse Proxy</li>
+<li>SSH e SSH-Keys</li>
 </ul>
 <p>Antes não conseguiria sem a ajuda do Caprover, hoje já consigo usando Caddy, no futuro, quero aprender a usar Traefik. Veremos o que 2025 tem pela frente.</p>
 
